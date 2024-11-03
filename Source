@@ -111,7 +111,9 @@ http://fl2.moveonjoy.com/USA_Network/index.m3u8
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129958.m3u8
 
 #EXTINF:-1 tvg-id="Pbarush.Hd.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/PBA_Rush_logo.png/revision/latest/scale-to-width-down/250?cb=20161115101642" tvg-name="Tv channel name" group-title="Sports",PBA RUSH
-http://abcnew.site:8880/DYJ14M2353/4745643534/50127
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=76dc29dd87a244aeab9e8b7c5da1e5f3:95b2f2ffd4e14073620506213b62ac82
+https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_pbarush_hd1.mpd
 
 #EXTINF:-1 tvg-id = "Uaap.Varsity.ph" group-title="Sports" ch-number = "" tvg-logo="https://i.imgur.com/rifinVV.png",UAAP Varsity
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
@@ -128,7 +130,9 @@ http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo4EDvaOXDkTskxk-MO00xMA/ts
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo2xBm9xMZK4Yoq2fEzOd2Sk/ts
 
 #EXTINF:-1 tvg-id="RPTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/RPTV_Vector_Logo_2024.png" tvg-name="Tv channel name" group-title="Local",RPTV
-https://wag.ika.lat/stream/2043888238
+#KODIPROP:inputstream.adaptive.license_type=Clearkey
+#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central East
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/417882
