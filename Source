@@ -250,7 +250,7 @@ http://abcnew.site:8880/DYJ14M2353/4745643534/50119
 http://abcnew.site:8880/DYJ14M2353/4745643534/30182
 
 #EXTINF:-1 tvg-id="SONY.PIX.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-name="Tv channel name" group-title="Movies",Sony Pix HD
-http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/49539
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="Sports",Tennis Channel
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2275
@@ -733,7 +733,7 @@ https://dice-live-ap.akamaized.net/hls/live/2102466/266217-277147/exchange266217
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2281
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movies" tvg-logo="https://imgur.com/tEa4rMS.png" group-title="Movies", Sony Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/chunks.m3u8
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/04/Amazon-Prime-Video-Logo.png" group-title="Prime Video | VOD Channels",Prime Video Series 1
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/567204
