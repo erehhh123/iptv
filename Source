@@ -72,6 +72,12 @@ https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=0cbc4d3b4fbd9af512acb2488bb42910:30528c4ef882954e5707cd1001d66121
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2603/default_primary.mpd
 
+#EXTINF:-1 tvg-id="WWENetwork.us" tvg-name="WWE NETWORK" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png/v1/fill/w_707,h_668/wwe_network_logo_by_jjk100_d8txzp1-fullview.png" group-title="Sports", WWE NETWORK US
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
+https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" group-title="Entertainment" tvg-logo="https://e7.pngegg.com/pngimages/962/1015/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-others-television-text.png",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
@@ -255,20 +261,40 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&e
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="Sports",Tennis Channel
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2275
 
-#EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://imgur.com/D7IhWUb.png" group-title="Sports",TNT Sports 1
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508184
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT SPORTS 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://imgur.com/Wq0tSzH.png" group-title="Sports",TNT Sports 2
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508186
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest?cb=20230717231157",TNT SPORTS 2 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://imgur.com/U5Kk0kT.png" group-title="Sports",TNT Sports 3
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508187
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156",TNT SPORTS 3 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" group-title="Sports",TNT Sports 4
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508189
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155",TNT SPORTS 4 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/TNT_Sports_5_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718053007" group-title="Sports",TNT Sports 5
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508191
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports5.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TNT_Sports_5_HD_%282023%29.svg/revision/latest?cb=20230718053006",TNT SPORTS 5 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 tvg-id="TNT.Sports.6.HD.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/TNT_Sports_6_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230718052851" group-title="Sports",TNT Sports 6
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508192
@@ -837,5 +863,70 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 #EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/11/Kapamilya_Channel_White_Logo_2020.png" group-title="Local",Kapamilya Channel SD
 https://ln.run/c03PQ
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/h3VTwLI.png" group-title="Local",Megapro TeleOke Channel
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/h3VTwLI.png" group-title="Karaoke",Megapro TeleOke Channel
 http://115.146.176.131/TimRizal/TimRizal/70
+
+#EXTINF:-1 tvg-id="new/blastsportshd" tvg-name="Blast Sports" tvg-logo="https://i.ibb.co/q1qZCjk/OIP-3-removebg-preview.png" group-title="Sports", Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-vizious/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies HD" tvg-logo="https://i.imgur.com/n1QoXez.png" group-title="Movies",Star Movies HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472273&extension=m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-name="Star Movies Select HD" tvg-logo="https://i.imgur.com/7OjPgvd.png" group-title="Movies",Star Movies Select HD
+http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&extension=m3u8
+
+#EXTINF:-1 tvg-id="ANIMExHIDIVE.us" tvg-name="Anime x Hidlve" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="Kids",Anime x Hidlve
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?x-plex-token=x88uMhP5zf6qSxiY8AqS&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1730294547&url=7c61e6530ca200a515b4223bc5eb9a8d-802876f6193b78b61f95cb764deda8a02db3122476de7dd7fc5bcf4b9963e7b00fa0a819b8ddc877341e1d756d62552189cbcb716e003bda64f6781b4981ded6403866e7a07bf2ff916fd4fc822c84bbdb6f7d8d4c61468aba23c12925e9abcbd81cd50c06540f485607bf86c09dce25d9e5e0638c28bb24668461d8a91bf9ef527098555552dda1a1df50ce1fadfb74cfada39c1baaa052804692fb5ce7460748afb5dab226d73723d88c85e054c7496a64afb070feb0385fe7a6ffe33f1eba
+
+#EXTINF:-1 tvg-id="Anime.All.Day.us" tvg-name="Anime All Day" tvg-logo="https://drive.google.com/uc?export=view&id=1WrysdkWqi6r763mRD8GO2o7Xn854zCml" group-title="Kids",Anime All Day
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?
+
+#EXTINF:-1 tvg-id="Anime.Tv.us" tvg-name="AnimeTv" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Kids",AnimeTv
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dreamworks.HD.ph" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/SASnGFo.png" group-title="KIDS NETWORKS",DreamWorks Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Kids",Aniplus
+https://ln.run/fNDoA
+
+#EXTINF:-1 tvg-id="Fight.Sports.HD" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Sports",Fight Sports
+https://bit.ly/4fm2KBW
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",USA: HBO
+http://apkandweb.ddns.net/6377635294/6663568605/691
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",USA: HBO 2
+http://apkandweb.ddns.net/6377635294/6663568605/692
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2 UHD" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",USA: HBO 2 UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020441
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",USA: HBO COMEDY
+http://apkandweb.ddns.net/6377635294/6663568605/693
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",USA: HBO COMEDY UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020442
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",USA: HBO FAMILY
+http://apkandweb.ddns.net/6377635294/6663568605/694
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",USA: HBO FAMILY UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020443
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",USA: HBO SIGNATURE
+http://apkandweb.ddns.net/6377635294/6663568605/695
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",USA: HBO SIGNATURE UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020444
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO UHD" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",USA: HBO UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020440
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",USA: HBO ZONE
+http://apkandweb.ddns.net/6377635294/6663568605/697
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",USA: HBO ZONE UHD
+http://apkandweb.ddns.net/6377635294/6663568605/1020445
