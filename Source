@@ -196,7 +196,7 @@ http://abcnew.site:8880/DYJ14M2353/4745643534/30173
 http://vo01.mohdtv.com:8880/voby4786/257981580cde00587553/3084
 
 #EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" tvg-name="Tv channel name" group-title="Music",MYX
-https://wag.ika.lat/stream/207261088
+http://115.146.176.131:80/TimRizal/TimRizal/66
 
 #EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a5/GTV_Vector_Logo_2021.png" tvg-name="Tv channel name" group-title="Local",GTV
 http://115.146.176.131:80/play/5i_LtAbpY7PhHy5sbZlWo41V4XcHK5Lccd5m3a-e0MA/ts
@@ -815,3 +815,9 @@ http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/567007
 
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="Korean",M.net UHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/11/Kapamilya_Channel_White_Logo_2020.png" group-title="Local",Kapamilya Channel SD
+https://ln.run/c03PQ
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/h3VTwLI.png" group-title="Local",Megapro TeleOke Channel
+http://115.146.176.131/TimRizal/TimRizal/70
