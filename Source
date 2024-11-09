@@ -879,10 +879,7 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=21109&ex
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63dea56a2a2abb171ff6dadf/variant.m3u8?x-plex-token=x88uMhP5zf6qSxiY8AqS&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1730294547&url=7c61e6530ca200a515b4223bc5eb9a8d-802876f6193b78b61f95cb764deda8a02db3122476de7dd7fc5bcf4b9963e7b00fa0a819b8ddc877341e1d756d62552189cbcb716e003bda64f6781b4981ded6403866e7a07bf2ff916fd4fc822c84bbdb6f7d8d4c61468aba23c12925e9abcbd81cd50c06540f485607bf86c09dce25d9e5e0638c28bb24668461d8a91bf9ef527098555552dda1a1df50ce1fadfb74cfada39c1baaa052804692fb5ce7460748afb5dab226d73723d88c85e054c7496a64afb070feb0385fe7a6ffe33f1eba
 
 #EXTINF:-1 tvg-id="Anime.All.Day.us" tvg-name="Anime All Day" tvg-logo="https://drive.google.com/uc?export=view&id=1WrysdkWqi6r763mRD8GO2o7Xn854zCml" group-title="Kids",Anime All Day
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b7d3249444e05d09cc49/master.m3u8?
-
-#EXTINF:-1 tvg-id="Anime.Tv.us" tvg-name="AnimeTv" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png" group-title="Kids",AnimeTv
-https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+https://bit.ly/AllDayAnime
 
 #EXTINF:-1 tvg-id="Dreamworks.HD.ph" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/SASnGFo.png" group-title="Kids",DreamWorks Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
