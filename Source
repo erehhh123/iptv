@@ -892,41 +892,98 @@ https://ln.run/fNDoA
 #EXTINF:-1 tvg-id="Fight.Sports.HD" tvg-name="TrueFM TV" tvg-logo="https://i.ibb.co/b1ysLd1/fight-sports-one-destination-small-1-removebg-preview.png" group-title="Sports",Fight Sports
 https://bit.ly/4fm2KBW
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",USA: HBO
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",HBO
 http://apkandweb.ddns.net/6377635294/6663568605/691
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",USA: HBO 2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",HBO 2
 http://apkandweb.ddns.net/6377635294/6663568605/692
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2 UHD" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",USA: HBO 2 UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO 2 UHD" tvg-logo="http://apkip.tv/logos/USA/HBO2.us.png" group-title="Movies",HBO 2 UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020441
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",USA: HBO COMEDY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",HBO COMEDY
 http://apkandweb.ddns.net/6377635294/6663568605/693
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",USA: HBO COMEDY UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO COMEDY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOComedy.us.png" group-title="Movies",HBO COMEDY UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020442
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",USA: HBO FAMILY
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",HBO FAMILY
 http://apkandweb.ddns.net/6377635294/6663568605/694
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",USA: HBO FAMILY UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO FAMILY UHD" tvg-logo="http://apkip.tv/logos/USA/HBOFamily.us.png" group-title="Movies",HBO FAMILY UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020443
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",USA: HBO SIGNATURE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",HBO SIGNATURE
 http://apkandweb.ddns.net/6377635294/6663568605/695
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",USA: HBO SIGNATURE UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO SIGNATURE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOSignature.us.png" group-title="Movies",UHBO SIGNATURE UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020444
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO UHD" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",USA: HBO UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO UHD" tvg-logo="http://apkip.tv/logos/USA/HBO.us.png" group-title="Movies",HBO UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020440
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",USA: HBO ZONE
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",HBO ZONE
 http://apkandweb.ddns.net/6377635294/6663568605/697
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",USA: HBO ZONE UHD
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",HBO ZONE UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020445
 
 #EXTINF:-1 tvg-id="CINE.MO!.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png" group-title="Local",Cine Mo!
 https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dummy.us" tvg-logo="https://dr56wvhu2c8zo.cloudfront.net/hi-yahtv/assets/4f35a43c-50ed-4ba3-a1ac-41af0f16b7fb.png" group-title="Movies",Hi Yah
+https://bit.ly/hiyahchannel
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791557
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 1
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791558
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 2
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791559
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 3
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791560
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 4
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791561
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 5
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791562
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 6
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791563
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 7
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791564
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 8
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791565
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 9
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791566
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 10
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791567
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 11
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791568
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 12
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791569
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 13
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791570
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 14
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791571
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 15
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791572
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 16
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791573
+
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 17
+http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791574
