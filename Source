@@ -183,7 +183,7 @@ http://stream01.vnet.am/Fightbox/mono.m3u8
 http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Korean",KBS World
-http://mytv.dothome.co.kr/ch/catv/7.php
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?timestamp=1730621565
 
 #EXTINF:-1 tvg-id="Fox Sports 1" tvg-logo="https://www.clipartmax.com/png/full/233-2332507_fox-sports-fs1-logo-white.png" tvg-name="Tv channel name" group-title="Sports",Fox Sports 1
 http://fl2.moveonjoy.com/MLB_2/index.m3u8
