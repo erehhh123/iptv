@@ -6,7 +6,7 @@
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
 
-#EXTINF:-1 tvg-id="NBA.TV.id" tvg-logo="https://www.clipartmax.com/png/middle/134-1349206_nba-logo-png-transparent-background-nba-logo-transparent-background.png" group-title="SPORTS", NBA TV
+#EXTINF:-1 tvg-id="NBA.TV.id" tvg-logo="https://www.clipartmax.com/png/middle/134-1349206_nba-logo-png-transparent-background-nba-logo-transparent-background.png" group-title="Sports", NBA TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -22,7 +22,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:-1 tvg-id="Hits.HD.ph" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Local",HITS HD
+#EXTINF:-1 tvg-id="Hits.HD.ph" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies",HITS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -261,35 +261,35 @@ http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&e
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="Sports",Tennis Channel
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2275
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT SPORTS 1
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest?cb=20230717231157",TNT SPORTS 2 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest?cb=20230717231157",TNT Sports 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156",TNT SPORTS 3 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156",TNT Sports 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155",TNT SPORTS 4 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155",TNT Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports5.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TNT_Sports_5_HD_%282023%29.svg/revision/latest?cb=20230718053006",TNT SPORTS 5 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports5.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TNT_Sports_5_HD_%282023%29.svg/revision/latest?cb=20230718053006",TNT Sports 5 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -930,3 +930,6 @@ http://apkandweb.ddns.net/6377635294/6663568605/697
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: HBO ZONE UHD" tvg-logo="http://apkip.tv/logos/USA/HBOZone.us.png" group-title="Movies",USA: HBO ZONE UHD
 http://apkandweb.ddns.net/6377635294/6663568605/1020445
+
+#EXTINF:-1 tvg-id="CINE.MO!.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/Cine_mo.png" group-title="Local",Cine Mo!
+https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
