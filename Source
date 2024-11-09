@@ -327,7 +327,7 @@ http://115.146.176.131:80/TimRizal/TimRizal/29
 http://starshare.live:8080/live/anita123/anita123/151002.m3u8
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Korean",TVN Movies Pinoy
-http://starshare.live:8080/live/anita123/anita123/151038.m3u8
+https://dice-live-ap.akamaized.net/hls/live/2000244/274551-280783/exchange274551gawaf_274551_4500/chunklist.m3u8?hdntl=exp=1731214951~acl=%2f*~id=49634087-2445-495a-8cd8-a3e419d561b5~data=hdntl,dWlkPTRCcHJhYnw2NGRjOTFiZS1jZDNlLTQ3ZDMtYTIwNC1jNTc4Yjk2MzJjNDImaXA9MTgwLjE5MS42NC4zMiZleHA9MTczMTIxNDk3NyZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=eb1f4c5976c351168a3ed800674ac5eb83286472e18048dfcd185b327f0a712c
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://imgur.com/bJyvO9A.png" group-title="Music",MTV
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2344
@@ -987,3 +987,51 @@ http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791573
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/HBO_Max_Logo.svg/2560px-HBO_Max_Logo.svg.png" group-title="HBO Max | VOD Channels",HBO Max Originals 17
 http://monstertv.site:8080/djdlangston3@comcast.net/CqBbXL25Vhjb/791574
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvuUl.md.png" group-title="Kids", Anime 1
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566952
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvEfj.md.png" codec="" group-title="Kids", Anime 2
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566953
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvizX.md.png" codec="" group-title="Kids", Anime 3
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566954
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPn8C7V.md.png" codec="" group-title="Kids", Anime 4
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566955
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPn8EhX.md.png" codec="" group-title="Kids", Anime 5
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566956
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPn8Nv2.md.png" codec="" group-title="Kids", Anime 6
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566957
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvEfj.md.png" codec="" group-title="Kids", Anime 7
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566958
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvizX.md.png" codec="" group-title="Kids", Anime 8
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566959
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnSDR2.md.png" codec="" group-title="Kids", Anime 9
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566960
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnUuUv.md.png" codec="" group-title="Kids", Anime 10
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566961
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnUuUv.md.png" codec="" group-title="Kids", Anime 11
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566962
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/HPnvizX.md.png" codec="" group-title="Kids", Anime 12
+#EXTHTTP: {"User-Agent": "OTT Navigator 1.7.1.6"}
+http://bisdaktv.store/jmrk.php?channel=566963
