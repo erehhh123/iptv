@@ -240,8 +240,11 @@ http://cord-cutter.net:8080/25464931/30585186/20930
 #EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Wisconsin
 http://cord-cutter.net:8080/25464931/30585186/78599
 
-#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://imgur.com/KK0ehXU.png" tvg-name="Tv channel name" group-title="Sports",TBS
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://imgur.com/KK0ehXU.png" tvg-name="Tv channel name" group-title="Entertainment",TBS (East)
 http://cord-cutter.net:8080/25464931/30585186/20867
+
+#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West)" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="Entertainment",TBS (West)
+http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/419360.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(West).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network 
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/419369
