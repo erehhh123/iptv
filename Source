@@ -383,73 +383,73 @@ http://starshare.live:8080/live/anita123/anita123/151012.m3u8
 #EXTINF:-1 tvg-id="OUTDOORCHANNEL.ph" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Entertainment",Outdoor Channel
 http://starshare.live:8080/live/anita123/anita123/151071.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-detroit-logo-57F365E6A2-seeklogo.com.png" group-title="Main",Bally Sports Detroit
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-detroit-logo-57F365E6A2-seeklogo.com.png" group-title="Sports",Bally Sports Detroit
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707817.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-florida-logo-0FF3A9D5BD-seeklogo.com.png" group-title="Main",Bally Sports Florida
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-florida-logo-0FF3A9D5BD-seeklogo.com.png" group-title="Sports",Bally Sports Florida
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707818.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-great-lakes-logo-53096CD605-seeklogo.com.png" group-title="Main",Bally Sports Great Lakes
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-great-lakes-logo-53096CD605-seeklogo.com.png" group-title="Sports",Bally Sports Great Lakes
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707819.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/ZvzfZSh.png" group-title="Main",Bally Sports Midwast
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/ZvzfZSh.png" group-title="Sports",Bally Sports Midwast
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707824.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/rA0nI0x.png" group-title="Main",Bally Sports North
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/rA0nI0x.png" group-title="Sports",Bally Sports North
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707827.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/avXKOsl.png" group-title="Main",Bally Sports Ohio
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/avXKOsl.png" group-title="Sports",Bally Sports Ohio
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707830.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bally_Sports_Sun_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421194720" group-title="Main",Bally Sports Sun
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bally_Sports_Sun_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421194720" group-title="Sports",Bally Sports Sun
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707839.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-socal-logo-FBEDD42D09-seeklogo.com.png" group-title="Main",Bally Sports Soical
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-socal-logo-FBEDD42D09-seeklogo.com.png" group-title="Sports",Bally Sports Soical
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707834.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Bally_Sports_South.png" group-title="Main",Bally Sports South
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Bally_Sports_South.png" group-title="Sports",Bally Sports South
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707836.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bally_Sports_Southeast.png/250px-Bally_Sports_Southeast.png" group-title="Main",Bally Sports Southeast
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bally_Sports_Southeast.png/250px-Bally_Sports_Southeast.png" group-title="Sports",Bally Sports Southeast
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707837.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://www.rodeohouston.com/wp-content/uploads/2023/07/bally-sports-logo.png" group-title="Main",Bally Sports Southwest
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://www.rodeohouston.com/wp-content/uploads/2023/07/bally-sports-logo.png" group-title="Sports",Bally Sports Southwest
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707810.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/02/Bally-Sports-West-logo.png" group-title="Main",Bally Sports West
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/02/Bally-Sports-West-logo.png" group-title="Sports",Bally Sports West
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707842.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Bally_Sports_Wisconsin_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421200729" group-title="Main",Bally Sports Wisconsin
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Bally_Sports_Wisconsin_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421200729" group-title="Sports",Bally Sports Wisconsin
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707844.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="Main",beIN Sports 1
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_425_305" group-title="Sports",beIN Sports 1
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856845.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305" group-title="Main",beIN Sports 2
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_425_305" group-title="Sports",beIN Sports 2
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856846.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="Main",beIN Sports 3
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_425_305" group-title="Sports",beIN Sports 3
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/856848.m3u8
 
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="" group-title="Sports",Spectrum SportsNet 
 http://pwr55.xyz:80/zijadingashchi/475346643CAF/200930
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="Main",NBC Sports
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/NBC_Sports_logo_2012.png" group-title="Sports",NBC Sports
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707886.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(CSNBA).us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-bay-area.png" group-title="Main",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(CSNBA).us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-bay-area.png" group-title="Sports",NBC Sports Bay Area
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707880.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Main",NBC Sports Boston
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707881.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.California.HDTV.(NBCSCA).us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-california-960x307.png" group-title="Main",NBC Sports California
+#EXTINF:-1 tvg-id="NBC.Sports.California.HDTV.(NBCSCA).us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-california-960x307.png" group-title="Sports",NBC Sports California
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707882.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="Main",NBC Sports Chicago
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-Chicago-logo.png" group-title="Sports",NBC Sports Chicago
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707884.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/640px-NBC_Sports_Philadelphia.png" group-title="Main",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/640px-NBC_Sports_Philadelphia.png" group-title="Sports",NBC Sports Philadelphia
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707888.m3u8
 
 #EXTINF:-1 tvg-id="ACC.Network.HDTV.(ACCN).us" tvg-logo="" group-title="Sports",ACC Network
@@ -641,7 +641,7 @@ http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508246
 #EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://e3.365dm.com/tvlogos/channels/1322-Logo.png?U2t5IFNwb3J0cyBHb2xm" group-title="Sky Channels",Sky Sports Golf
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508250
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Main_Event_%282020%29.png" group-title="Sky Channels",Sky Sports Main Event
+#EXTINF:-1 tvg-id="SkySpSportsEvHD.uk" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/a/a1/Sky_Sports_Sports_Event_%282020%29.png" group-title="Sky Channels",Sky Sports Sports Event
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/508252
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sky_Sport_Mix_Logo_2022.svg/2560px-Sky_Sport_Mix_Logo_2022.svg.png" group-title="Sky Channels",Sky Sport Mix
