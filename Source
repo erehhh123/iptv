@@ -327,7 +327,11 @@ https://dice-live-ap.akamaized.net/hls/live/2000252/220939-277132/exchange220939
 http://115.146.176.131:80/TimRizal/TimRizal/29
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Korean",TVN
-http://starshare.live:8080/live/anita123/anita123/151002.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Korean",TVN Movies Pinoy
 https://dice-live-ap.akamaized.net/hls/live/2000244/274551-280783/exchange274551gawaf_274551_4500/chunklist.m3u8?hdntl=exp=1731214951~acl=%2f*~id=49634087-2445-495a-8cd8-a3e419d561b5~data=hdntl,dWlkPTRCcHJhYnw2NGRjOTFiZS1jZDNlLTQ3ZDMtYTIwNC1jNTc4Yjk2MzJjNDImaXA9MTgwLjE5MS42NC4zMiZleHA9MTczMTIxNDk3NyZlaWQ9Mjc0NTUxJmNpZD1kY2UudGFwZ28mb2lkPTMyNSZ0eXBlPUxJVkU~hmac=eb1f4c5976c351168a3ed800674ac5eb83286472e18048dfcd185b327f0a712c
