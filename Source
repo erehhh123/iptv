@@ -1393,7 +1393,7 @@ http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/567272.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STARZ Original 10 ᴴᴰ" tvg-logo="https://iili.io/s3HRov.md.png" group-title="STARZ Original | VOD Channels",STARZ Original 10 ᴴᴰ
 http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/567273.m3u8
 
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/XJjvSbx/f1.png" group-title="F1", F1 GRAND PRIX 2024 🇬🇧
+#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="https://i.ibb.co/XJjvSbx/f1.png" group-title="Sports", F1 GRAND PRIX 2024 🇬🇧
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
