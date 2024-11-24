@@ -1568,3 +1568,126 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
+
+#EXTINF:-1 channel-id="US39000038W" tvg-id="US39000038W" tvg-chno="4445" tvg-name="K-POP by CJ ENM" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US39000038W_20241105T024353SQUARE.png" group-title="Music", K-POP by CJ ENM
+https://ln.run/h1fE-
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USAJ3000013FJ" tvg-id="USAJ3000013FJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000013FJ_20240520T212542SQUARE.png" group-title="Music" tvg-chno="4451",NEW KPOP
+https://ln.run/v0lt-
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD300011KQ" tvg-id="USBD300011KQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300011KQ_20240520T212856SQUARE.png" group-title="Music" tvg-chno="4388",Vevo '70s
+https://ln.run/4DxQD
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD300012YC" tvg-id="USBD300012YC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240520T212858SQUARE.png" group-title="Music" tvg-chno="4391",Vevo '80s
+https://ln.run/Xgtfm
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000133M" tvg-id="USBD3000133M" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000133M_20240520T212900SQUARE.png" group-title="Music" tvg-chno="4394",Vevo '90s
+https://ln.run/Vgi9c
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD120002431" tvg-id="USBD120002431" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD120002431_20240520T212902SQUARE.png" group-title="Music" tvg-chno="4400",Vevo 2010s
+https://ln.run/sUoaj
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB4400015F5" tvg-id="USBB4400015F5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4400015F5_20240520T212904SQUARE.png" group-title="Music" tvg-chno="4397",Vevo 2K
+https://ln.run/uZzc-
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600001RQ" tvg-id="USBC3600001RQ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600001RQ_20240520T212906SQUARE.png" group-title="Music" tvg-chno="4415",Vevo Country
+https://ln.run/tqYXs
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD1200008GL" tvg-id="USBD1200008GL" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200008GL_20240520T212908SQUARE.png" group-title="Music" tvg-chno="4421",Vevo Features
+https://ln.run/-bo-e
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600002EK" tvg-id="USBC3600002EK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600002EK_20240520T212910SQUARE.png" group-title="Music" tvg-chno="4409",Vevo Hip-Hop
+https://ln.run/IZuaE
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600015GF" tvg-id="USBC3600015GF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240520T212912SQUARE.png" group-title="Music" tvg-chno="4406",Vevo Latino
+https://ln.run/980UP
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3600008WY" tvg-id="USBC3600008WY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240520T212914SQUARE.png" group-title="Music" tvg-chno="4418",Vevo Pop
+https://ln.run/0n00t
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBC3900009K5" tvg-id="USBC3900009K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900009K5_20240520T212916SQUARE.png" group-title="Music" tvg-chno="4412",Vevo R&B
+https://ln.run/mjY99
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3000145P_20240520T212918SQUARE.png" group-title="Music" tvg-chno="4403",Vevo Retro Rock
+https://ln.run/FTFmU
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000180U" tvg-id="USBD35000180U" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000180U_20240826T191200SQUARE.png" group-title="Music" tvg-chno="4476",Stingray Classic Rock
+https://ln.run/Sjzou
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350002623" tvg-id="USBD350002623" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350002623_20240520T212826SQUARE.png" group-title="Music" tvg-chno="4462",Stingray Classica
+https://ln.run/Gk6-B
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500025GS" tvg-id="USBD3500025GS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500025GS_20240826T191202SQUARE.png" group-title="Music" tvg-chno="4456",Stingray DJAZZ
+https://ln.run/iOuXM
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500011J3" tvg-id="USBD3500011J3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500011J3_20240520T212830SQUARE.png" group-title="Music" tvg-chno="4468",Stingray Easy Listening
+https://ln.run/Puf5V
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500008IJ" tvg-id="USBD3500008IJ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500008IJ_20240520T212832SQUARE.png" group-title="Music" tvg-chno="4470",Stingray Flashback 70s
+https://ln.run/Wm_ku
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500022DN" tvg-id="USBD3500022DN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500022DN_20240611T050259SQUARE.png" group-title="Music" tvg-chno="4482",Stingray Greatest Hits
+https://ln.run/ErRRG
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500010MT" tvg-id="USBD3500010MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500010MT_20240520T212836SQUARE.png" group-title="Music" tvg-chno="4478",Stingray Hip Hop
+https://ln.run/eI-jo
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300021KV" tvg-id="USBD3300021KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300021KV_20240826T191205SQUARE.png" group-title="Music" tvg-chno="4480",Stingray Hot Country
+https://ln.run/2tVim
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000149S" tvg-id="USBD35000149S" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000149S_20240826T191209SQUARE.png" group-title="Music" tvg-chno="4474",Stingray Nothin' But 90s
+https://ln.run/bSPvH
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300022QK" tvg-id="USBD3300022QK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300022QK_20240611T050303SQUARE.png" group-title="Music" tvg-chno="4472",Stingray Remember the 80s
+https://ln.run/3WNt4
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500017CE" tvg-id="USBD3500017CE" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500017CE_20240520T212846SQUARE.png" group-title="Music" tvg-chno="4466",Stingray Romance Latino
+https://ln.run/ZbyiU
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD35000128A" tvg-id="USBD35000128A" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD35000128A_20240520T212848SQUARE.png" group-title="Music" tvg-chno="4460",Stingray Smooth Jazz
+https://ln.run/FBZoB
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500016NH" tvg-id="USBD3500016NH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500016NH_20240520T212852SQUARE.png" group-title="Music" tvg-chno="4454",Stingray Today's K-Pop
+https://ln.run/z2MVV
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3500009Y3" tvg-id="USBD3500009Y3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3500009Y3_20240520T212854SQUARE.png" group-title="Music" tvg-chno="4464",Stingray Today's Latin Pop
+https://ln.run/29sG_
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3000145P" tvg-id="USBD3000145P" tvg-logo="https://i.ibb.co/Dt0RW1c/Tik-Tok-Radio-Logo-removebg-preview.png" group-title="Music" tvg-chno="4403",Stingray TikTok Radio
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB3200007AK" tvg-id="USBB3200007AK" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB3200007AK_20240702T044853SQUARE.png" group-title="Music" tvg-chno="4318",XITE 90s Throwback
+https://ln.run/qBS18
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD350003932" tvg-id="USBD350003932" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD350003932_20240702T044845SQUARE.png" group-title="Music" tvg-chno="4310",XITE Celebrates
+https://ln.run/7dLIU
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300011UT" tvg-id="USBD3300011UT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300011UT_20240716T002641SQUARE.png" group-title="Music" tvg-chno="4333",XITE Classic Country
+https://ln.run/yaZMe
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300006O3" tvg-id="USBD3300006O3" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300006O3_20240716T002639SQUARE.png" group-title="Music" tvg-chno="4328",XITE Country Today
+https://ln.run/hKF52
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300004RH" tvg-id="USBD3300004RH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20240716T002643SQUARE.png" group-title="Music" tvg-chno="4323",XITE Hits
+https://ln.run/11nnQ
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300005EX" tvg-id="USBD3300005EX" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300005EX_20240716T002645SQUARE.png" group-title="Music" tvg-chno="4358",XITE Icons
+https://ln.run/CqaZ1
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300003JZ" tvg-id="USBB2300003JZ" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300003JZ_20240716T002652SQUARE.png" group-title="Music" tvg-chno="4363",XITE Just Chill
+https://ln.run/KI2mS
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300007PB" tvg-id="USBD3300007PB" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300007PB_20240520T212941SQUARE.png" group-title="Music" tvg-chno="4338",XITE Nuevo Latino
+https://ln.run/5c7Es
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300008DG" tvg-id="USBD3300008DG" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300008DG_20240716T002646SQUARE.png" group-title="Music" tvg-chno="4368",XITE Only Love
+https://ln.run/cpRrf
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD330000948" tvg-id="USBD330000948" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD330000948_20240716T002648SQUARE.png" group-title="Music" tvg-chno="4348",XITE R&B Classic Jams
+https://ln.run/eQAPa
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBB2300004KV" tvg-id="USBB2300004KV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB2300004KV_20240716T002654SQUARE.png" group-title="Music" tvg-chno="4353",XITE Rock x Metal
+https://ln.run/Dezjw
+
+#EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" group-title="Music" tvg-chno="4343",XITE Siempre Latino
+https://ln.run/_1EUi
