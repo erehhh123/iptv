@@ -123,10 +123,10 @@ https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/137686.m3u8
 
 #EXTINF:-1 tvg-id="FX.HDTV.(East).(FXHD).us" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/5aa84948a658208d0b3e15f0b450785d.webp" tvg-name="Tv channel name" group-title="Movies",FX
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/419329
+http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/417889
+http://fl2.moveonjoy.com/FXX/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network East
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
