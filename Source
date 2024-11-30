@@ -1,10 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", Kapamilya Channel
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/index.mpd
+https://meowmeowphc.blogspot.com/kchcignal.m3u8
+
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
+https://meowmeowphc.blogspot.com/iheartmovies.m3u8
+
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Heart_of_Asia_logo.svg" group-title="Local", Heart Of Asia
+https://meowmeowphc.blogspot.com/heartofasia.m3u8
 
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-logo="https://www.clipartmax.com/png/middle/134-1349206_nba-logo-png-transparent-background-nba-logo-transparent-background.png" group-title="Sports", NBA TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -44,8 +46,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default.mpd
 
 #EXTINF:-1 tvg-id="HBO.HITS.my" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -99,12 +101,12 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #EXTINF:-1 tvg-id="Nickelodeon.ph" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
-http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #EXTINF:-1 tvg-id="Nick.Jr.ph" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-http://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
 
 #EXTINF:-1 "tvg-id="ANIMAX.ph" group-title="Kids" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -161,7 +163,7 @@ https://ln.run/1fZGp
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central East
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/417882
+http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/417882.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Tv channel name" group-title="Entertainment",Crime & Investigation
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129860.m3u8
@@ -176,7 +178,7 @@ http://84.17.40.25/CARTOON_NETWORK/index.m3u8
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 #EXTINF:-1 tvg-id="Comedy.Central.us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central
-http://abcnew.site:8880/DYJ14M2353/4745643534/3146
+http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/419324.m3u8
 
 #EXTINF:-1 tvg-id="Fight Box" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FightBox_HD_%282013%29.svg/revision/latest?cb=20171210175848" tvg-name="Tv channel name" group-title="Sports",Fight Box
 http://stream01.vnet.am/Fightbox/mono.m3u8
@@ -261,7 +263,7 @@ http://abcnew.site:8880/DYJ14M2353/4745643534/50119
 http://abcnew.site:8880/DYJ14M2353/4745643534/30182
 
 #EXTINF:-1 tvg-id="SONY.PIX.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-name="Tv channel name" group-title="Movies",Sony Pix HD
-http://line.clear-ocean.link/play/live.php?mac=00:1A:79:2D:2F:BF&stream=472281&extension=m3u8
+http://31.43.191.155:8080/live/VIP0118171178987462/cf22e1647a21/7317.ts?token=TxBbUEFZGgNDXQhUAwQCWw8HUgRUVwEJAlRWBwMKXVVXAFJTBwlbWwIbFRREQRFcVwtsWFNECwNVAVABGRoQElFAbFhWEwIbUwgNDw8CQRUUElpcUkQLAVYFVgIBAFVQBh4RQVtVGgNDCg0BBQRBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUwEERB8TVAlEXhVFHRQPGiw1Fh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAQBVQoPRE4=
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://imgur.com/BmXK3Xm.png" group-title="Sports",Tennis Channel
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2275
@@ -743,7 +745,7 @@ https://dice-live-ap.akamaized.net/hls/live/2102466/266217-277147/exchange266217
 http://iptvtree.net:8080/resplice/wdLIS4d9758INyuX/2281
 
 #EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.(SONY).us" tvg-name="Sony Movies" tvg-logo="https://imgur.com/tEa4rMS.png" group-title="Movies", Sony Movies
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/509207.m3u8
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PrimeVideo Serie info ᴴᴰ" tvg-logo="https://iili.io/wajkCb.md.png" group-title="Prime Video | VOD Channels",PrimeVideo Serie info ᴴᴰ
 http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/567203.m3u8
@@ -853,9 +855,6 @@ http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/567007
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="Korean",M.net UHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="KAPAMILYA.CHANNEL.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/1/11/Kapamilya_Channel_White_Logo_2020.png" group-title="Local",Kapamilya Channel SD
-https://wag.ika.lat/stream/1770104596
-
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/h3VTwLI.png" group-title="Karaoke",Megapro TeleOke Channel
 http://115.146.176.131/TimRizal/TimRizal/70
 
@@ -876,8 +875,8 @@ https://bit.ly/AllDayAnime
 
 #EXTINF:-1 tvg-id="Dreamworks.HD.ph" tvg-name="DreamWorks Channel" tvg-logo="https://imgur.com/SASnGFo.png" group-title="Kids",DreamWorks Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b5bfe3554df2abcd37afe130a7e1d310:dccbdf043ac43d18be0b3eb43a582876
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5095/default.mpd
+#KODIPROP:inputstream.adaptive.license_key=4ab9645a2a0a47edbd65e8479c2b9669:8cb209f1828431ce9b50b593d1f44079
+https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/cg_dreamworks_hd1.mpd
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/5gMIjA2.png" group-title="Kids",Aniplus
 https://ln.run/fNDoA
