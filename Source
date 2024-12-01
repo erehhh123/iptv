@@ -2,6 +2,11 @@
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", Kapamilya Channel
 https://meowmeowphc.blogspot.com/kchcignal.m3u8
 
+#EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", Kapamilya Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/e7b31352-1621-4e60-9ad9-14541917adff/index.mpd
+
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
 https://meowmeowphc.blogspot.com/iheartmovies.m3u8
 
