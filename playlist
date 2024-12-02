@@ -83,3 +83,45 @@ http://fl2.moveonjoy.com/MLB_2/index.m3u8
 
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(East).(TNTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" tvg-name="Tv channel name" group-title="Entertainment",TNT East
 http://fl5.moveonjoy.com/TNT/index.m3u8
+
+#EXTINF:-1 tvg-id="MYX.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/8/85/Myx_White_Logo_2021.png" tvg-name="Tv channel name" group-title="Music",MYX
+http://115.146.176.131:80/TimRizal/TimRizal/66
+
+#EXTINF:-1 tvg-id="GTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a5/GTV_Vector_Logo_2021.png" tvg-name="Tv channel name" group-title="Local",GTV
+https://ln.run/yY4Rp
+
+#EXTINF:-1 tvg-id="NBA TV" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",NBA TV
+http://pwr55.xyz:80/zijadingashchi/475346643CAF/71986
+
+#EXTINF:-1 tvg-id="Bally.Sports.Florida.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bally_Sports_Florida_logo.svg/220px-Bally_Sports_Florida_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Bally Sports Florida
+http://abcnew.site:8880/DYJ14M2353/4745643534/29473
+
+#EXTINF:-1 tvg-id="Bally Sports Southeast" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Southeast
+http://cord-cutter.net:8080/25464931/30585186/81111
+
+#EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Detroit
+http://cord-cutter.net:8080/25464931/30585186/20930
+
+#EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Wisconsin
+http://cord-cutter.net:8080/25464931/30585186/78599
+
+#EXTINF:-1 tvg-id="TBS.Superstation.HDTV.(East).(TBSHD).us" tvg-logo="https://imgur.com/KK0ehXU.png" tvg-name="Tv channel name" group-title="Entertainment",TBS (East)
+http://cord-cutter.net:8080/25464931/30585186/20867
+
+#EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West)" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="Entertainment",TBS (West)
+http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/419360.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(West).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network 
+http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/419369
+
+#EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="Kids",YTV
+http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/423367
+
+#EXTINF:-1 tvg-id="Cinema.One.ph" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/d2/Cinema_One_%282013-.n.v.%29.png" tvg-name="Tv channel name" group-title="Movies",Cinema One
+http://abcnew.site:8880/DYJ14M2353/4745643534/50119
+
+#EXTINF:-1 tvg-id="Fight Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/300px-Fight_network_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fight Network HD
+http://abcnew.site:8880/DYJ14M2353/4745643534/30182
+
+#EXTINF:-1 tvg-id="SONY.PIX.HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Sony_Pix_new.png" tvg-name="Tv channel name" group-title="Movies",Sony Pix HD
+http://31.43.191.155:8080/live/VIP0118171178987462/cf22e1647a21/7317.ts?token=TxBbUEFZGgNDXQhUAwQCWw8HUgRUVwEJAlRWBwMKXVVXAFJTBwlbWwIbFRREQRFcVwtsWFNECwNVAVABGRoQElFAbFhWEwIbUwgNDw8CQRUUElpcUkQLAVYFVgIBAFVQBh4RQVtVGgNDCg0BBQRBFRQDS0VSFF9RDWgAU0NRBgQWCF1EXl0UGw5XZlJSWAJXUkQJEwZEHRIIRBQUD1YQDVgeEVNbRUpYFVwbDBUHUwEERB8TVAlEXhVFHRQPGiw1Fh4RVEpFXVcSUFZYFQ9BTUVEHxNeFW5CBEQQRFBZCARGEAkTAhMUGwxYQWlUWg1XUwVHWFgIQhJbFVUUGRoIDlpbR15AbkhQBRsDFAQBVQoPRE4=
