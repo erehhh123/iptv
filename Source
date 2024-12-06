@@ -5,7 +5,7 @@ https://meowmeowphc.blogspot.com/kchcignal.m3u8
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", Kapamilya Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01006-abs-cbn-kapcha-dash-abscbnono/e7b31352-1621-4e60-9ad9-14541917adff/index.mpd
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
@@ -136,7 +136,7 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.HDTV.(East).(FXXHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network East
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://i.imgur.com/U7o3O7W.png" tvg-name="Tv channel name" group-title="Movies",SYFY
@@ -168,23 +168,20 @@ https://ln.run/1fZGp
 #KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
 
-#EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central East
-http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/417882.m3u8
+#EXTINF:-1 tvg-id="Comedy.Central.us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" tvg-name="Tv channel name" group-title="Entertainment",Crime & Investigation
 http://hardcoremedia.xyz/live/6FyrkGbRP/D4Q4pk3k8u/129860.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5616e15a-3b6f-4840-99a9-0bdad5d808f9/ddp1j0h-0a452980-0a75-44df-b3b5-5168fd31410e.png/v1/fill/w_1280,h_845/cartoon_network_red_logo_by_rowanhines123_ddp1j0h-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9ODQ1IiwicGF0aCI6IlwvZlwvNTYxNmUxNWEtM2I2Zi00ODQwLTk5YTktMGJkYWQ1ZDgwOGY5XC9kZHAxajBoLTBhNDUyOTgwLTBhNzUtNDRkZi1iM2I1LTUxNjhmZDMxNDEwZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.PgWBg7MGXrI9dlcQUw6PzKyxf2_vZr7xYYqwrKVlEP8" tvg-name="Tv channel name" group-title="Kids",Cartoon Network US
-http://tvmate.icu:8080/live/7686199/9576982/46708.m3u8
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon.Network.(Canada).(CN).ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Cartoon_Network_2004_%283D%29.svg/revision/latest/scale-to-width-down/250?cb=20230610142507" tvg-name="Tv channel name" group-title="Kids",Cartoon Network CA
 http://84.17.40.25/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.XD.us" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cb83f5fb-1228-4c04-abea-651aff6f1ad4/di1hsaz-c87f57ec-1ee9-48cd-b78c-00dbc55704e3.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2NiODNmNWZiLTEyMjgtNGMwNC1hYmVhLTY1MWFmZjZmMWFkNFwvZGkxaHNhei1jODdmNTdlYy0xZWU5LTQ4Y2QtYjc4Yy0wMGRiYzU1NzA0ZTMucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.IaUlGgrDOeFg6ilHsWq58Fwf0QH3zwnD1wfozAkQQEs" tvg-name="Tv channel name" group-title="Kids",Disney XD
 http://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
-
-#EXTINF:-1 tvg-id="Comedy.Central.us" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-1.png" tvg-name="Tv channel name" group-title="Entertainment",Comedy Central
-http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/419324.m3u8
 
 #EXTINF:-1 tvg-id="Fight Box" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/FightBox_HD_%282013%29.svg/revision/latest?cb=20171210175848" tvg-name="Tv channel name" group-title="Sports",Fight Box
 http://stream01.vnet.am/Fightbox/mono.m3u8
@@ -256,8 +253,6 @@ http://cord-cutter.net:8080/25464931/30585186/20867
 #EXTINF:-1 tvg-id="TBSPacific.us" tvg-name="TBS (West)" tvg-logo="http://logonoid.com/images/tbs-logo.png" group-title="Entertainment",TBS (West)
 http://defaultgen.com:3050/live/JeffR2/NsNa3v3jRB/419360.m3u8
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(West).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network 
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/419369
 
 #EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="Kids",YTV
 http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/423367
@@ -1696,3 +1691,30 @@ https://ln.run/Dezjw
 
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" group-title="Music" tvg-chno="4343",XITE Siempre Latino
 https://ln.run/_1EUi
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORTS", TSN 1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORTS", TSN 2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORTS", TSN 3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORTS", TSN 4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/TSN_Logo.svg/220px-TSN_Logo.svg.png" group-title="SPORTS", TSN 5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="Movies", Crave 1
+http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="Movies", Crave 2
+http://fl2.moveonjoy.com/CRAVE_2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="Movies", Crave 3
+http://fl3.moveonjoy.com/CRAVE_3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Crave_2018_logo.svg/220px-Crave_2018_logo.svg.png" group-title="Movies", Crave 4
+http://fl2.moveonjoy.com/CRAVE_4/index.m3u8
