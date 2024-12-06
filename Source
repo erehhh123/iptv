@@ -205,9 +205,6 @@ http://fl5.moveonjoy.com/TNT/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HDTV.(East).(TOONHD).us" tvg-logo="https://i.imgur.com/Dbvk4nF.png" tvg-name="Tv channel name" group-title="Entertainment",Adult Swim
-http://abcnew.site:8880/DYJ14M2353/4745643534/29875
-
 #EXTINF:-1 tvg-id="Turner.Network.Television.HDTV.(West).(TNTHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/600px-TNT_Logo_2016.svg.png" tvg-name="Tv channel name" group-title="Entertainment",TNT West
 http://cord-cutter.net:8080/25464931/30585186/46688
 
@@ -219,9 +216,6 @@ http://abcnew.site:8880/DYJ14M2353/4745643534/3044
 
 #EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-logo="https://i.pinimg.com/originals/42/dc/6d/42dc6df904ee807fcbd9e060c1bf28ce.png" tvg-name="Tv channel name" group-title="Kids",Cartoon Network UK
 http://cord-cutter.net:8080/25464931/30585186/53719
-
-#EXTINF:-1 tvg-id="Adult.Swim.(ADSM).ca" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2047868-eb3f-45a9-84ac-a12510bfedd9/dgp0oim-6aa9e398-316a-4af3-bcbb-cd9472fa7fb1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyMDQ3ODY4LWViM2YtNDVhOS04NGFjLWExMjUxMGJmZWRkOVwvZGdwMG9pbS02YWE5ZTM5OC0zMTZhLTRhZjMtYmNiYi1jZDk0NzJmYTdmYjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.QW6SrDXV0mx3HrodOJrbkAOiFvj3PsguQ8BG9iPibxc" tvg-name="Tv channel name" group-title="Entertainment",Adult Swim CA
-http://abcnew.site:8880/DYJ14M2353/4745643534/30173
 
 #EXTINF:-1 tvg-id="UFC Fight Pass" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",UFC Fight Pass
 http://fl1.moveonjoy.com/UFC/index.m3u8
