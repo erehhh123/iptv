@@ -239,13 +239,13 @@ http://data.enics.cloud:9999/stream/iptv/gtv/stream.m3u8?uid=2127631843&u=xignnc
 http://pwr55.xyz:80/zijadingashchi/475346643CAF/71986
 
 #EXTINF:-1 tvg-id="Bally.Sports.Florida.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bally_Sports_Florida_logo.svg/220px-Bally_Sports_Florida_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Bally Sports Florida
-http://abcnew.site:8880/DYJ14M2353/4745643534/29473
+http://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
 
 #EXTINF:-1 tvg-id="Bally Sports Southeast" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Southeast
 http://cord-cutter.net:8080/25464931/30585186/81111
 
 #EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Detroit
-http://cord-cutter.net:8080/25464931/30585186/20930
+http://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
 
 #EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Wisconsin
 http://cord-cutter.net:8080/25464931/30585186/78599
@@ -412,23 +412,23 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_onesportsplus_hd1.mpd
 #KODIPROP:inputstream.adaptive.license_key=d39eb201ae494a0b98583df4d110e8dd:6797066880d344422abd3f5eda41f45f
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/onenews_hd1.mpd
 
+EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/DAZN_1_2024.svg/revision/latest?cb=20240713213358" group-title="Sports",DAZN 1
+http://fl2.moveonjoy.com/DAZN_1/index.m3u8
+
+EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/DAZN_2_2024.svg/revision/latest?cb=20240713212845" group-title="Sports",DAZN 2
+http://fl2.moveonjoy.com/DAZN_2/index.m3u8
+
 #EXTINF:-1 tvg-id="OUTDOORCHANNEL.ph" tvg-logo="https://i.imgur.com/Kh4MWaY.png" group-title="Entertainment",Outdoor Channel
 http://starshare.live:8080/live/anita123/anita123/151071.m3u8
-
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-detroit-logo-57F365E6A2-seeklogo.com.png" group-title="Sports",Bally Sports Detroit
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707817.m3u8
-
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-florida-logo-0FF3A9D5BD-seeklogo.com.png" group-title="Sports",Bally Sports Florida
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707818.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-great-lakes-logo-53096CD605-seeklogo.com.png" group-title="Sports",Bally Sports Great Lakes
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707819.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/ZvzfZSh.png" group-title="Sports",Bally Sports Midwast
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707824.m3u8
+http://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/rA0nI0x.png" group-title="Sports",Bally Sports North
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707827.m3u8
+http://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/avXKOsl.png" group-title="Sports",Bally Sports Ohio
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707830.m3u8
@@ -443,10 +443,7 @@ http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707834.m
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707836.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bally_Sports_Southeast.png/250px-Bally_Sports_Southeast.png" group-title="Sports",Bally Sports Southeast
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707837.m3u8
-
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://www.rodeohouston.com/wp-content/uploads/2023/07/bally-sports-logo.png" group-title="Sports",Bally Sports Southwest
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707810.m3u8
+http://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/02/Bally-Sports-West-logo.png" group-title="Sports",Bally Sports West
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707842.m3u8
