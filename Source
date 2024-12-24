@@ -15,7 +15,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
-http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=2042447956&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+http://data.enics.cloud:9999/stream/iptv/iheartmovies/stream.m3u8?uid=2042447956&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Heart_of_Asia_logo.svg" group-title="Local", Heart Of Asia
 http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=1534574540&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
