@@ -383,7 +383,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2305/manifest.mpd
 
-#EXTINF:-1 tvg-id="Hits.HD.ph" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies",HITS HD
+#EXTINF:-1 tvg-id="Hits.HD.ph" tvg-logo="https://i.imgur.com/YeqyD9W.png" group-title="Movies",Hits HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -597,7 +597,7 @@ http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
-#EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/smart/width/386/height/259?cb=20240711133443" group-title="Entertainment",HITS Now
+#EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/smart/width/386/height/259?cb=20240711133443" group-title="Entertainment",Hits Now
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" group-title="Entertainment" tvg-logo="https://e7.pngegg.com/pngimages/962/1015/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-others-television-text.png",Warner TV
