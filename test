@@ -854,5 +854,5 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&ap
 #EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC FHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="",MBC
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
+#KODIPROP:inputstream.adaptive.license_key=cd84ed136b0cc71f8ab8cd4d4f6a2e4c:03c2e0af2f8159f9f0ce9b5dbc865f10
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
