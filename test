@@ -40,7 +40,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/HOA2020.svg/revision/latest?cb=20241126142026" group-title="Local", Heart Of Asia
-http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=1534574540&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=944503336&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
 http://data.enics.cloud:9999/stream/iptv/ihm/stream.m3u8?uid=1606524836&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
