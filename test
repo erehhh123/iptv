@@ -857,9 +857,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/pl
 #EXTINF:-1 tvg-id="wavve|S03" tvg-name="SBS Plus" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/37.png" group-title="Korean",SBS Plus
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbspluspc&streamName=sbsplus3
 
-#EXTINF:-1 tvg-id="wavve|M02" tvg-name="MBC Drama" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/0600b9e790610144025.png" group-title="Korean",MBC Drama
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=SD&apikey=5MY50EII66
-
 #EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korean",MBC
 http://mnet.x10.mx/koreaiptv/cable/mbctv.php
 
