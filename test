@@ -605,13 +605,13 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.imgur.com/8VsCN1h.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment",GLOBAL TREKKER
+#EXTINF:-127 tvg-logo="https://i.imgur.com/8VsCN1h.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
-#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",GINX TV
+#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Ginx TV
 https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
@@ -945,6 +945,12 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
+
+#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tving|C00551" tvg-name="tvN" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C00551.png" group-title="Korean",tvN
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00551&q=SD&apikey=5MY50EII66
