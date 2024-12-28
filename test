@@ -746,14 +746,32 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-name="CARTOON NETWORK" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" group-title="Kids",Cartoon Network.us
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel.us
 http://fl2.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Jr.
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel.ca
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
+https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Jr.us
 http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 
-#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-name="DISNEY JR" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" group-title="Kids",Disney Jr.ca
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=221e176f3dfabb84ff506d65dd93b09f:6a97b8d4beed4d4b1697c1488706c6ca
+https://a181aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/0qvo3uakfd/out/v1/d62a555c1e5945f3bae88ae4018321d4/cenc.mpd
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD.us
 http://fl2.moveonjoy.com/DISNEY_XD/index.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-name="DISNEY XD" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids",Disney XD.ca
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39cebece8b36640f9ba3f248ecfdf86a:fad936249e036830aa5bef41bec05326
+https://a53aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/jts4tzzv1k/out/v1/8a5b29f7068c415aa371ea95743382e6/cenc.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-name="Nickelodeon" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" group-title="Kids",Nickelodeon.us
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
@@ -767,8 +785,17 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
+#EXTINF:-1 tvg-id="Treehouse.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Treehouse_2013.svg/revision/latest?cb=20220526133609" tvg-name="Tv channel name" group-title="Kids",Treehouse
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
+https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7y1plnj/out/v1/0c87bd17ab474015b77c0f3028190f78/cenc.mpd
+
 #EXTINF:-1 tvg-id="YTV.(East).(YTV).ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/29/YTV_Canada_logo.png" tvg-name="Tv channel name" group-title="Kids",YTV
-http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/423367
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
+https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 -------------------------------------------------------------------------------Korean-----------------------------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Korean",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?timestamp=1730621565
