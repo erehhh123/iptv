@@ -190,9 +190,6 @@ http://cord-cutter.net:8080/25464931/30585186/81111
 #EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1920px-FanDuel_Sports_Network_Detroit_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Detroit
 http://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
 
-#EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Wisconsin
-http://cord-cutter.net:8080/25464931/30585186/78599
-
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FanDuel_Sports_Network_Great_Lakes_logo.svg/220px-FanDuel_Sports_Network_Great_Lakes_logo.svg.png" group-title="Sports",Fanduel Sports Network Great Lakes
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707819.m3u8
 
@@ -205,7 +202,7 @@ http://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FanDuel_Sports_Network_Ohio_logo.svg/220px-FanDuel_Sports_Network_Ohio_logo.svg.png" group-title="Sports",Fanduel Sports Network Ohio
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707830.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bally_Sports_Sun_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421194720" group-title="Sports",Fanduel Sports Network Sun
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FanDuel_Sports_Network_Sun_logo.svg/220px-FanDuel_Sports_Network_Sun_logo.svg.png" group-title="Sports",Fanduel Sports Network Sun
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707839.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/220px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",Fanduel Sports Network SoCal
