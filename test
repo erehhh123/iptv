@@ -767,7 +767,7 @@ http://defaultgen.com:3050/JeffR2/NsNa3v3jRB/423367
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Korean",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?timestamp=1730621565
 
-#EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/35.png" group-title="Drama",KBS DRAMA
+#EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg/revision/latest?cb=20210106032103" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Korean",tvN.ph
