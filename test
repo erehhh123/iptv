@@ -896,7 +896,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 -------------------------------------------------------------------------------Korean-----------------------------------------------------------------------------------------------------
-#EXTINF:-157 tvg-logo="https://i.imgur.com/jgiNWxJ.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="International",ARIRANG
+#EXTINF:-157 tvg-logo="https://i.imgur.com/jgiNWxJ.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",ARIRANG
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
