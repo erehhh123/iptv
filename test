@@ -848,6 +848,5 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 #EXTINF:-1 tvg-id="wavve|S01" tvg-name="SBS UHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="Korean",SBS
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbs1ch61
 
-#EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC FHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korean",MBC
-http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=5MY50EII66
+
 
