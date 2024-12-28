@@ -577,6 +577,13 @@ https://starshare.live:443/live/04494/04494/98846.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
 http://streamsy.online:2999/venomj/EmoOmOskzq/1217
+
+#EXTINF:-79 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",THRILL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
