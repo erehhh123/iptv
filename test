@@ -571,6 +571,12 @@ https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
 
 #EXTINF:-81 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&PRIVE
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
+
+#EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",SONY PIX
+https://starshare.live:443/live/04494/04494/98846.m3u8
+
+#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
+http://streamsy.online:2999/venomj/EmoOmOskzq/1217
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
@@ -645,9 +651,6 @@ http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" group-title="Entertainment",Paramount Network
 http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
-http://streamsy.online:2999/venomj/EmoOmOskzq/1217
 
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-name="VH1" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" group-title="Entertainment",VH1
 http://fl2.moveonjoy.com/VH1/index.m3u8
