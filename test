@@ -181,46 +181,46 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 #EXTINF:-1 tvg-id="UFC Fight Pass" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",UFC Fight Pass
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
-#EXTINF:-1 tvg-id="Bally.Sports.Florida.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bally_Sports_Florida_logo.svg/220px-Bally_Sports_Florida_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Bally Sports Florida
+#EXTINF:-1 tvg-id="Bally.Sports.Florida.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FanDuel_Sports_Network_Florida_logo.svg/1920px-FanDuel_Sports_Network_Florida_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Florida
 http://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
 
-#EXTINF:-1 tvg-id="Bally Sports Southeast" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Southeast
+#EXTINF:-1 tvg-id="Fanduel Sports Network Southeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FanDuel_Sports_Network_Southeast_logo.svg/220px-FanDuel_Sports_Network_Southeast_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Southeast
 http://cord-cutter.net:8080/25464931/30585186/81111
 
-#EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Detroit
+#EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1920px-FanDuel_Sports_Network_Detroit_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Detroit
 http://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
 
-#EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Bally Sports Wisconsin
+#EXTINF:-1 tvg-id="Bally.Sports.Wisconsin.us" tvg-logo="" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Wisconsin
 http://cord-cutter.net:8080/25464931/30585186/78599
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-great-lakes-logo-53096CD605-seeklogo.com.png" group-title="Sports",Bally Sports Great Lakes
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FanDuel_Sports_Network_Great_Lakes_logo.svg/220px-FanDuel_Sports_Network_Great_Lakes_logo.svg.png" group-title="Sports",Fanduel Sports Network Great Lakes
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707819.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/ZvzfZSh.png" group-title="Sports",Bally Sports Midwast
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FanDuel_Sports_Network_Midwest_logo.svg/220px-FanDuel_Sports_Network_Midwest_logo.svg.png" group-title="Sports",Fanduel Sports Network Midwest
 http://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/rA0nI0x.png" group-title="Sports",Bally Sports North
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FanDuel_Sports_Network_North_logo.svg/1920px-FanDuel_Sports_Network_North_logo.svg.png" group-title="Sports",Fanduel Sports Network North
 http://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://i.imgur.com/avXKOsl.png" group-title="Sports",Bally Sports Ohio
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FanDuel_Sports_Network_Ohio_logo.svg/220px-FanDuel_Sports_Network_Ohio_logo.svg.png" group-title="Sports",Fanduel Sports Network Ohio
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707830.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bally_Sports_Sun_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421194720" group-title="Sports",Bally Sports Sun
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/23/Bally_Sports_Sun_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421194720" group-title="Sports",Fanduel Sports Network Sun
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707839.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://seeklogo.com/images/B/bally-sports-socal-logo-FBEDD42D09-seeklogo.com.png" group-title="Sports",Bally Sports SoCal
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/220px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",Fanduel Sports Network SoCal
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707834.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Bally_Sports_South.png" group-title="Sports",Bally Sports South
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FanDuel_Sports_Network_South_logo.svg/220px-FanDuel_Sports_Network_South_logo.svg.png" group-title="Sports",Fanduel Sports Network South
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707836.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Bally_Sports_Southeast.png/250px-Bally_Sports_Southeast.png" group-title="Sports",Bally Sports Southeast
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/FanDuel_Sports_Network_Southwest_logo.svg/220px-FanDuel_Sports_Network_Southwest_logo.svg.png" group-title="Sports",Fanduel Sports Network Southwest
 http://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/02/Bally-Sports-West-logo.png" group-title="Sports",Bally Sports West
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FanDuel_Sports_Network_West_logo.svg/220px-FanDuel_Sports_Network_West_logo.svg.png" group-title="Sports",Fanduel Sports Network West
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707842.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/45/Bally_Sports_Wisconsin_2021.svg/revision/latest/scale-to-width-down/200?cb=20230421200729" group-title="Sports",Bally Sports Wisconsin
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FanDuel_Sports_Network_Wisconsin_logo.svg/220px-FanDuel_Sports_Network_Wisconsin_logo.svg.png" group-title="Sports",Fanduel Sports Network Wisconsin
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707844.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT Sports 1
