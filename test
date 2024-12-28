@@ -11,7 +11,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:b2d0dce5c486891997c1c92ddaca2cd2
-#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://i.imgur.com/JRXE8yV.png" group-title="Local",Bilyonaryo Channel
+#EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/Bilyonaryo_News_Channel_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240725151343" group-title="Local",Bilyonaryo Channel
 https://qp-pldt-live-grp-05-prod.akamaized.net/out/u/bilyonaryoch.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -39,7 +39,7 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="Local",GTV
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/Heart_of_Asia_logo.svg" group-title="Local", Heart Of Asia
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/HOA2020.svg/revision/latest?cb=20241126142026" group-title="Local", Heart Of Asia
 http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=1534574540&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
 #EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/Iheartmovies1.png/revision/latest?cb=20210413032151" group-title="Local", I Heart Movies
@@ -508,7 +508,7 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
 https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
 
-#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://banner2.cleanpng.com/20180718/fuo/5aa84948a658208d0b3e15f0b450785d.webp" tvg-name="Tv channel name" group-title="Entertainment",FX
+#EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/FX2022.svg/revision/latest?cb=20220716143114" tvg-name="Tv channel name" group-title="Entertainment",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
