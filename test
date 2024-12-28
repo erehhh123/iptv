@@ -848,5 +848,29 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01141&
 #EXTINF:-1 tvg-id="wavve|S01" tvg-name="SBS UHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_sbs.png" group-title="Korean",SBS
 http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbs1ch61
 
+#EXTINF:-1 tvg-id="wavve|M06" tvg-name="MBC Music" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/67e7022c00218114309.png" group-title="Korean",MBC Music
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M06&q=SD&apikey=5MY50EII66
 
+#EXTINF:-1 tvg-id="wavve|S09" tvg-name="SBS MTV" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C43242.png" group-title="Korean",SBS MTV
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsmtvpc&streamName=sbsmtv3
 
+#EXTINF:-1 tvg-id="everyon|36" tvg-name="Arirang TV" tvg-logo="http://img.arirang.com/images/index/arirang.png" group-title="Korean",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wavve|S03" tvg-name="SBS Plus" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/37.png" group-title="Korean",SBS Plus
+http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbspluspc&streamName=sbsplus3
+
+#EXTINF:-1 tvg-id="wavve|M02" tvg-name="MBC Drama" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/0600b9e790610144025.png" group-title="Korean",MBC Drama
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M02&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korean",MBC
+http://mnet.x10.mx/koreaiptv/cable/mbctv.php
+
+#EXTINF:-1 tvg-id="wavve|K01" tvg-name="KBS1" tvg-logo="https://i.ibb.co/SX0s02c/kbs1-removebg-preview.png" group-title="Korean",KBS1
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K01&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="wavve|K02" tvg-name="KBS2" tvg-logo="https://i.ibb.co/60SxHQZ/kbs2-removebg-preview.png" group-title="Korean",KBS2
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K02&q=SD&apikey=5MY50EII66
+
+#EXTINF:-1 tvg-id="tving|C01582" tvg-name="JTBC" tvg-logo="http://image.tving.com/upload/cms/caic/CAIC1600/C01582.png" group-title="Korean",JTBC
+http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
