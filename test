@@ -572,7 +572,7 @@ https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
 #EXTINF:-81 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&PRIVE
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 
-#EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",SONY PIX
+#EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Sony Pix
 https://starshare.live:443/live/04494/04494/98846.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sony-movie-channel-hz-us.png?raw=true" group-title="Movies",Sony Movie Channel
