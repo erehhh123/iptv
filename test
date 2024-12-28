@@ -729,16 +729,16 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default.mpd
 
 #EXTINF:-1 tvg-id="Nick.Jr.ph" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa65220c9f76e424173899df533a6d10:b4abbee95b69b3e80a0d141272c870db
-https://linearjitp-playback.astro.com.my/dash-wv/linear/9982/default.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001313/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #EXTINF:-1 "tvg-id="ANIMAX.ph" group-title="Kids" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch150_425_305",Animax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
 http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
@@ -851,8 +851,3 @@ http://mnet.x10.mx/koreaiptv/gorealra.php?channelPath=sbsch6&streamName=sbs1ch61
 #EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC FHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="Korean",MBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M01&q=FHD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="wavve|M01" tvg-name="MBC FHD" tvg-logo="http://image.tving.com/public_v4/portal/images/smr/logo_mbc.png" group-title="",MBC
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cd84ed136b0cc71f8ab8cd4d4f6a2e4c:03c2e0af2f8159f9f0ce9b5dbc865f10
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default.mpd
