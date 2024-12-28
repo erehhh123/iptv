@@ -26,7 +26,7 @@ https://d1uf7s78uqso1e.cloudfront.net/out/v1/efa01372657648be830e7c23ff68bea2/in
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="knowlegecha1" tvg-name="KNOWLEDGE CHANNELS (CON)" tvg-logo="https://i.imgur.com/agp7T5R.png" group-title="",Knowledge Channels
+#EXTINF:-1 tvg-id="knowlegecha1" tvg-name="KNOWLEDGE CHANNELS (CON)" tvg-logo="https://i.imgur.com/agp7T5R.png" group-title="Local",Knowledge Channels
 http://143.44.136.110:6910/001/2/ch00000090990000001340/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -53,7 +53,7 @@ http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDoma
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/TxIO2Cz.png" group-title="",TV5 HD
+#EXTINF:-1 tvg-id="tv5ph2" tvg-name="TV5 HD" tvg-logo="https://i.imgur.com/TxIO2Cz.png" group-title="Local",TV5 HD
 https://qp-pldt-live-grp-02-prod.akamaized.net/out/u/tv5_hd.mpd
 
 #EXTINF:-1 tvg-id="RPTV.ph" tvg-logo="https://static.wikia.nocookie.net/russel/images/2/21/RPTV_Vector_Logo_2024.png" tvg-name="Tv channel name" group-title="Local",RPTV
@@ -116,7 +116,7 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_buko_sd.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0559c95496d44fadb94105b9176c3579:40d8bb2a46ffd03540e0c6210ece57ce
-#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://i.imgur.com/kJouP67.png" group-title="",TRUE FM
+#EXTINF:-1 tvg-id="truefmph" tvg-name="TRUE FM" tvg-logo="https://i.imgur.com/kJouP67.png" group-title="Local",TRUE FM
 https://qp-pldt-live-grp-08-prod.akamaized.net/out/u/truefm_tv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
