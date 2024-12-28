@@ -908,19 +908,17 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 #EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg/revision/latest?cb=20210106032103" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
 
-#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",K-PLUS
+#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",ONE
+#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd
-
-
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Korean",tvN.ph
 #KODIPROP:inputstreamaddon=inputstream.adaptive
