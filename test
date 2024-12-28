@@ -497,7 +497,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 #EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2048px-ABC-2021-LOGO.svg.png" group-title="Entertainment", ABC
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 
-#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",COMEDY CENTRAL
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-name="COMEDY CENTRAL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" group-title="Entertainment",Comedy Central
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 
 #EXTINF:-1 tvg-id="HITS.NOW.(HD).sg" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/HITS_Now_logo.svg/revision/latest/smart/width/386/height/259?cb=20240711133443" group-title="Entertainment",HITS Now
