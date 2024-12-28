@@ -703,7 +703,7 @@ https://ln.run/Dezjw
 #EXTINF:-1 channel-id="SamsungTVPlus-USBD3300010L9" tvg-id="USBD3300010L9" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300010L9_20240520T212947SQUARE.png" group-title="Music" tvg-chno="4343",XITE Siempre Latino
 https://ln.run/_1EUi
 ------------------------------------------------------------------------------------Kids----------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Adult_Swim.svg/revision/latest?cb=20201128112724" group-title="Kids",Adult Swim
+#EXTINF:-1 tvg-id="Adult Swim" tvg-name="Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/1920px-Adult_Swim_2003_logo.svg.png" group-title="Kids",Adult Swim
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cc26110bb0d29d0e4452d42602846080:4a2e5782e26a3e2d7dd0431205c14518
@@ -779,7 +779,7 @@ http://fl2.moveonjoy.com/NICK_MUSIC/index.m3u8
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-name="NickToons" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true" group-title="Kids",NickToons
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-id="Treehouse.ca" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/86/Treehouse_2013.svg/revision/latest?cb=20220526133609" tvg-name="Tv channel name" group-title="Kids",Treehouse
+#EXTINF:-1 tvg-id="Treehouse.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1920px-Treehouse_TV_logo.svg.png" tvg-name="Tv channel name" group-title="Kids",Treehouse
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de9b995d2aba32bae1c5dbe38a46f2d9:a2d94fdff16e9c332164a73f8b170bd3
