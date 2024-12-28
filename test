@@ -14,6 +14,11 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/Bilyonaryo_News_Channel_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240725151343" group-title="Local",Bilyonaryo Channel
 http://143.44.136.113:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local",JEEPNEY TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="kapcha1" tvg-name="Kapamilya Channel" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="Local",Kapamilya Channel
@@ -220,40 +225,33 @@ http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707842.m
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FanDuel_Sports_Network_Wisconsin_logo.svg/220px-FanDuel_Sports_Network_Wisconsin_logo.svg.png" group-title="Sports",Fanduel Sports Network Wisconsin
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707844.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/TNT_Sports_1_HD_%282023%29.svg/revision/latest?cb=20230717231158",TNT Sports 1
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://i.imgur.com/IV8omb6.jpeg",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/TNT_Sports_2_HD_%282023%29.svg/revision/latest?cb=20230717231157",TNT Sports 2 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports2.uk" tvg-logo="https://i.imgur.com/IV8omb6.jpeg",TNT Sports 2 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/TNT_Sports_3_HD_%282023%29.svg/revision/latest?cb=20230717231156",TNT Sports 3 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports3.uk" tvg-logo="https://i.imgur.com/IV8omb6.jpeg",TNT Sports 3 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
 
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/TNT_Sports_4_HD_%282023%29.svg/revision/latest?cb=20230717231155",TNT Sports 4 
+#EXTINF:-1 group-title="Sports" tvg-id="TNTSports4.uk" tvg-logo="https://i.imgur.com/IV8omb6.jpeg",TNT Sports 4 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
-
-#EXTINF:-1 group-title="Sports" tvg-id="TNTSports5.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/62/TNT_Sports_5_HD_%282023%29.svg/revision/latest?cb=20230718053006",TNT Sports 5 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
-https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="" group-title="Sports",Spectrum SportsNet 
 http://pwr55.xyz:80/zijadingashchi/475346643CAF/200930
@@ -308,6 +306,68 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNU.On.Demand.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
+
+#EXTINF:-200 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Bein Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
+
+#EXTINF:-201 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Bein Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
+
+#EXTINF:-202 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Bein Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
+
+#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Solar Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-208 tvg-logo="https://i.imgur.com/E9WTTwg.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-209 tvg-logo="https://i.imgur.com/ymGJTxi.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",SPOTV2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-210 tvg-logo="https://i.imgur.com/oYg5iPW.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Eurosports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Fight Sports
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+#EXTINF:-213 tvg-logo="https://i.imgur.com/QWunFo1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Sports
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
+
+#EXTINF:-214 tvg-logo="https://i.imgur.com/qVyVAJd.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
+
+#EXTINF:-215 tvg-logo="https://i.imgur.com/Wn8LXoz.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Football
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
+#EXTINF:-220 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Astro Sports UHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
 ---------------------------------------------------------------------------Movies-------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -339,6 +399,12 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
+
+#EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="International",CELESTIAL MOVIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
 
 #EXTINF:-1 tvg-id="HBO.HITS.my" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -487,7 +553,28 @@ https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
 
 #EXTINF:-1 tvg-id="screamflix" tvg-name="SCREAMFLIX" tvg-logo="https://i.imgur.com/VcbTnYj.png" group-title="Movies",Screamflix
 https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
+
+#EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Action
+https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-57 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Entertainment
+https://cdn09jtedge.indihometv.com/atm/hlsv3/rock_entertainment/rock_entertainment-avc1_2500000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-72 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Astro Showcase
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b8090c8361cc5cc5c1aac0ec2710de10:ca0d18538845bae2cb4f4a168036f174
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
+
+#EXTINF:-80 tvg-logo="https://i.imgur.com/SMukHlr.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&FLIX
+https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
+
+#EXTINF:-81 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&PRIVE
+http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
+#EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
+https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
+
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" group-title="Entertainment",A&E
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
@@ -502,14 +589,24 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
 #EXTINF:-1 tvg-id="Warnertv.Hd.ph" group-title="Entertainment" tvg-logo="https://e7.pngegg.com/pngimages/962/1015/png-clipart-warner-tv-television-channel-wb-channel-warner-bros-others-television-text.png",Warner TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4503cf86bca3494ab95a77ed913619a0:afc9c8f627fb3fb255dee8e3b0fe1d71
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_warnertvhd.mpd
+#KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2605/default_ott.mpd
 
 #EXTINF:-1 tvg-id="FX.Networks.East.Coast.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png" tvg-name="Tv channel name" group-title="Entertainment",FX
 http://fl2.moveonjoy.com/FX/index.m3u8
 
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/1200px-FXX_Logo.svg.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
+
+#EXTINF:-127 tvg-logo="https://i.imgur.com/8VsCN1h.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary/Lifestyle",GLOBAL TREKKER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
+
+#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",GINX TV
+https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/1920px-USA_Network_logo_%282016%29.svg.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -518,6 +615,15 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/567px-NBC_logo.svg.png?20241110193709" group-title="Entertainment", NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+
+#EXTINF:-54 tvg-logo="https://i.imgur.com/tb65CMh.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Entertainment",MTV
+http://87.254.1.41:9981/stream/channelid/536962397?profile=pass
+
+#EXTINF:-55 tvg-logo="https://i.imgur.com/UhRluq1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",Universal TV
+http://190.102.246.93:9005/play/a01o
+
+#EXTINF:-56 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",Studio Universal
+http://190.102.246.93:9005/play/a01e
 
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Entertainment",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
@@ -554,10 +660,11 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 #EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://i.imgur.com/eXbFzMA.png" group-title="Music",MYX
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTINF:-172 tvg-logo="https://i.imgur.com/j8x0nhs.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ac2542a4f7be746633db07647451710:22f964a6d6927ccdba482e775cdff190
-#EXTINF:-1 tvg-id="mtvliv1" tvg-name="MTV LIVE (MY)" tvg-logo="https://i.imgur.com/YRb17et.png" group-title="Music",MTV Live.my
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/5014/default.mpd
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5014/default_ott.mpd
 
 #EXTINF:-1 tvg-id="hollypop" tvg-name="HALLYPOP" tvg-logo="https://i.imgur.com/TocoWnz.png" group-title="Music",Hallypop
 https://jungotvstream-chanall.akamaized.net/jungotv/hallypop/stream.m3u8
@@ -568,7 +675,7 @@ http://fl2.moveonjoy.com/MTV/index.m3u8
 #EXTINF:-1 tvg-id="MTV.Classic.-.East.us" tvg-name="MTV Classic" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-classic-us.png?raw=true" group-title="Music",MTV Classic
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/1194.m3u8
 
-#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Music",MTV Live
+#EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="Music",MTV Live.us
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-2-us.png?raw=true" group-title="Music",MTV2
@@ -721,9 +828,10 @@ https://ln.run/fNDoA
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
 #EXTINF:-1 tvg-id="Nickelodeon.ph" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/370_144.png",Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001313/manifest.mpd?virtualDomain=001.live_hls.zte.com
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8520e96a1283ab6e5be538474bfa810:bda5f7bbc1e44096f779a0619fe9881f
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2511/default_ott.mpd
 
 #EXTINF:-1 tvg-id="Nick.Jr.ph" group-title="Kids" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/392_144.png",Nick Jr.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -788,11 +896,37 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 -------------------------------------------------------------------------------Korean-----------------------------------------------------------------------------------------------------
+#EXTINF:-157 tvg-logo="https://i.imgur.com/jgiNWxJ.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="International",ARIRANG
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
+http://143.44.136.110:6910/001/2/ch00000090990000001107/manifest.mpd?virtualDomain=001.live_hls.zte.com
+
 #EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Korean",KBS World
-https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?timestamp=1730621565
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg/revision/latest?cb=20210106032103" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
+
+#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",K-PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
+
+#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",ONE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd
+
+#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",TVN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2406/default_ott.mpd
 
 #EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Korean",tvN.ph
 #KODIPROP:inputstreamaddon=inputstream.adaptive
