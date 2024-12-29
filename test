@@ -853,7 +853,7 @@ https://ln.run/fNDoA
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"icX/n45lx/6WavvS+RKOXw", "kid":"GgW+v3BkCEMaOQw/n0D0EA" } ], "type":"temporary" }
 http://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 
-#EXTINF:-1 tvg-id="Cartoon.Net.Hd" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Net.Hd" group-title="Kids" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network.ca
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
