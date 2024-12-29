@@ -434,7 +434,7 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://i.imgur.com/U7o3O7W.png" tvg-name="Tv channel name" group-title="Movies",SYFY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=92aebd5d3ea9373ca9b5a41701f2c789:31dcdaa88f37fa805068681e9494e260
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-east)/master.mpd
+https://g001-live-us-cmaf-prd-ak.pcdn03.cssott.com/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-east)/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/yA6KOB5" group-title="Movies", Crave 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
