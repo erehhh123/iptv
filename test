@@ -664,10 +664,10 @@ http://fl1.moveonjoy.com/TBS/index.m3u8
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-name="truTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" group-title="Entertainment",truTV
 http://fl2.moveonjoy.com/TRU_TV/index.m3u8
 
-#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?" group-title="Entertainment",TVLand
+#EXTINF:-1 tvg-id="TV.Land.-.Eastern.us" tvg-name="TVLand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png" group-title="Entertainment",TVLand
 http://fl2.moveonjoy.com/TV_Land/index.m3u8
 
-#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="TVOne" tvg-logo="https://seeklogo.com/images/T/tvone-logo-7110EDDE30-seeklogo.com.png" group-title="Entertainment",TVOne
+#EXTINF:-1 tvg-id="TV.ONE.HDTV.(TVONEHD).us" tvg-name="TVOne" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/indonesia/tv-one-id.png" group-title="Entertainment",TVOne
 http://fl2.moveonjoy.com/TV_ONE/index.m3u8
 
 #EXTINF:-1 tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-name="Paramount Network" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?" group-title="Entertainment",Paramount Network
