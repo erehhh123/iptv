@@ -602,7 +602,7 @@ https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?" group-title="Entertainment",A&E
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
 
 #EXTINF:-1 tvg-id="ABC.(WOLO).Columbia,.SC.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/2048px-ABC-2021-LOGO.svg.png" group-title="Entertainment", ABC
