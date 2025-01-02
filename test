@@ -933,6 +933,12 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",iQIYI 
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd 
+#####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
+
 #EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg/revision/latest?cb=20210106032103" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
 
