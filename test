@@ -565,10 +565,10 @@ https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
 https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
 
 #EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Action
-https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
+https://cdn10jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/playlist.m3u8
 
 #EXTINF:-57 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Entertainment
-https://cdn09jtedge.indihometv.com/atm/hlsv3/rock_entertainment/rock_entertainment-avc1_2500000=6-mp4a_96000=2.m3u8
+https://cdn10jtedge.indihometv.com/atm/hlsv3/rock_entertainment/playlist.m3u8
 
 #EXTINF:-72 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -605,7 +605,7 @@ https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
-https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
+https://cdn10jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E
 http://streamsy.online:2999/live/venomj/EmoOmOskzq/212.m3u8
