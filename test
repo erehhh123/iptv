@@ -3,7 +3,7 @@
 ---------------------------------------------Local Channels---------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4bbdc78024a54662854b412d01fafa16:6039ec9b213aca913821677a28bd78ae
-#EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/ZEQpm3L.png" group-title="",ANC HD
+#EXTINF:-1 tvg-id="anc1" tvg-name="ANC HD (TFC)" tvg-logo="https://i.imgur.com/ZEQpm3L.png" group-title="Local",ANC HD
 https://d3cjss68xc4sia.cloudfront.net/out/v1/89ea8db23cb24a91bfa5d0795f8d759e/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -932,7 +932,7 @@ https://a79aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/ghf7
 #KODIPROP:inputstream.adaptive.license_key=6f0aeae5779f1dcaef23f0bfbc828220:7bcef3cf93de00e3daeb190d15b1ec05
 https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7aqpbb6vv/out/v1/f8f6ef738ef24c4f8176d561ffb8a157/cenc.mpd
 -------------------------------------------------------------------------------Korean-----------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Korean",KBS World
+#EXTINF:-1 tvg-id="KBS World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuwY90zimpTU8y7MbgMX9q324E3MBZeQuig&s" tvg-name="Tv channel name" group-title="Entertainment",KBS World
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=692950d39869c92af9a9ddea453c0d10:eadc626ab959255f7ab881c03d306fe2
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -940,33 +940,33 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_ott.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",iQIYI 
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd 
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg/revision/latest?cb=20210106032103" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
 
-#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",K-Plus
+#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",One
+#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/2702/default.mpd
 
-#EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Korean",tvN.ph
+#EXTINF:-1 tvg-id="tvN.HD.my" tvg-logo="https://i.imgur.com/eE9IBhJ.png" group-title="Entertainment",tvN
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e1bde543e8a140b38d3f84ace746553e:b712c4ec307300043333a6899a402c10
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_tvnpre.mpd
 
-#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Korean",TVN Movies Pinoy
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Entertainment",TVN Movies Pinoy
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -976,14 +976,14 @@ https://qp-pldt-live-grp-07-prod.akamaized.net/out/u/cg_tvnmovie.mpd
 #EXTINF:-1 tvg-id="tving|C00579" tvg-name="M.net FHD" tvg-logo="https://i.ibb.co/nP7scdQ/mnet-old.png" group-title="Korean",M.net UHD
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&q=FHD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Korean",KIX HD
+#EXTINF:-1 tvg-id="KIX.ph" tvg-logo="https://i.imgur.com/B8Fmzer.png" group-title="Entertainment",KIX HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
-#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Korean",TVN Movies
+#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
