@@ -286,16 +286,16 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 #EXTINF:-1 tvg-id="nbcsports" tvg-name="NBC SPORTS" tvg-logo="https://i.imgur.com/Z37Q1yT.png" group-title="Sports",NBC Sports
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy)/master_2min.mpd
 
-#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(CSNBA).us" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2023/03/NBC-sports-bay-area.png" group-title="Sports",NBC Sports Bay Area
+#EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(CSNBA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-bay-area-us.png" group-title="Sports",NBC Sports Bay Area
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707880.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/NBC_Sports_Boston.png" group-title="Sports",NBC Sports Boston
+#EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBC Sports Boston
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707881.m3u8
 
-#EXTINF:-1 tvg-id="NBC.Sports.California.HDTV.(NBCSCA).us" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2017/03/nbc-sports-california-960x307.png" group-title="Sports",NBC Sports California
+#EXTINF:-1 tvg-id="NBC.Sports.California.HDTV.(NBCSCA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-california-us.png" group-title="Sports",NBC Sports California
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707882.m3u8
 
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/NBC_Sports_Philadelphia.png/640px-NBC_Sports_Philadelphia.png" group-title="Sports",NBC Sports Philadelphia
+#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707888.m3u8
 
 #EXTINF:-1 tvg-id ="WWE.Network.HD.my" group-title="Sports" tvg-logo="https://i.imgur.com/gv0kIw9.png",WWE Network
@@ -376,6 +376,11 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1600/default.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00364eac2ffee337640e39682439b540:0960172d9000c470ade0658bd36c1d53
+#EXTINF:-1 tvg-id="skysportsnbait" tvg-name="SKY SPORTS NBA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/italy/sky-sport-nba-it.png" group-title="Sports",Sky Sports NBA
+http://linear304-it-dash1-prd-akg0.cdn13.skycdp.com/31764/FHD/skysportnba/master.mpd
 ---------------------------------------------------------------------------Movies-------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -741,7 +746,7 @@ http://streamsy.online:2999/live/venomj/EmoOmOskzq/1194.m3u8
 #EXTINF:-1 tvg-id="MTV.Live.HD.us" tvg-name="MTV Live" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-live-us.png" group-title="Music",MTV Live.us
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.comtv-logo/tv-logos/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2
+#EXTINF:-1 tvg-id="MTV.2.-.East.us" tvg-name="MTV2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/mtv-2-us.png" group-title="Music",MTV2
 http://fl2.moveonjoy.com/MTV_2/index.m3u8
 
 #EXTINF:-1 tvg-id="MTV-U.(MTV-U).us" tvg-name="mtvU" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mtv-u-us.png" group-title="Music",mtvU
