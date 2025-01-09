@@ -49,10 +49,10 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="Local",GTV
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/HOA2020.svg/revision/latest?cb=20241126142026" group-title="Local", Heart Of Asia
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/Heart_Of_Asia_Logo_2020.svg.png" group-title="Local", Heart Of Asia
 http://data.enics.cloud:9999/stream/iptv/heartofasia/stream.m3u8?uid=944503336&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
-#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local", I Heart Movies
+#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/I_Heart_Movies_2021.png" group-title="Local", I Heart Movies
 http://data.enics.cloud:9999/stream/iptv/ihm/stream.m3u8?uid=1606524836&u=xignncode&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
