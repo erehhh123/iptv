@@ -614,7 +614,7 @@ http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0020283ab8e5d2f36f3652f7c2338c57:b02e021c2d46c4ecf4214e239eb4b0e4
-#EXTINF:-1 tvg-id="hallmarkmoviesphere" tvg-name="MovieSphere" tvg-logo="https://i.imgur.com/QpmMLfs.png" group-title="Movies",MovieSphere
+#EXTINF:-1 tvg-id="hallmarkmoviesphere" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/208.png" group-title="Movies",MovieSphere
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd
 
 #EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Sony Pix
