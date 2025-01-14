@@ -416,27 +416,27 @@ https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-#EXTINF:-1 tvg-id="cinemachi1" tvg-name="CINEMACHI" tvg-logo="https://i.imgur.com/IPKiteM.png" group-title="Movies",CINEMACHI
+#EXTINF:-1 tvg-id="cinemachi1" tvg-name="CINEMACHI" tvg-logo="https://i.imgur.com/IPKiteM.png" group-title="Movies",Cinemachi Actiom
 http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
-#EXTINF:-1 tvg-id="cinemachi2" tvg-name="CINEMACHI ACTION" tvg-logo="https://i.imgur.com/uGEC5a6.png" group-title="Movies",CINEMACHI ACTION
+#EXTINF:-1 tvg-id="cinemachi2" tvg-name="CINEMACHI ACTION" tvg-logo="https://i.imgur.com/uGEC5a6.png" group-title="Movies",Cinemachi Action
 http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-#EXTINF:-1 tvg-id="cinemachi3" tvg-name="CINEMACHI MAX" tvg-logo="https://i.imgur.com/us4M9Hd.png" group-title="Movies",CINEMACHI MAX
+#EXTINF:-1 tvg-id="cinemachi3" tvg-name="CINEMACHI MAX" tvg-logo="https://i.imgur.com/us4M9Hd.png" group-title="Movies",Cinemachi Max
 http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-#EXTINF:-1 tvg-id="cinemachi4" tvg-name="CINEMACHI XTRA" tvg-logo="https://i.imgur.com/NJvBNc2.png" group-title="Movies",CINEMACHI XTRA
+#EXTINF:-1 tvg-id="cinemachi4" tvg-name="CINEMACHI XTRA" tvg-logo="https://i.imgur.com/NJvBNc2.png" group-title="Movies",Cinemachi Xtra
 http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
-#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="Movies",CINEMACHI KIDS
+#EXTINF:-1 tvg-id="cinemachi5" tvg-name="CINEMACHI KIDS" tvg-logo="https://i.imgur.com/zzixR9p.png" group-title="Movies",Cinemachi Kids
 http://202.147.193.244/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
 #EXTINF:-1 tvg-id="HBO.FAMILY.my" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family
