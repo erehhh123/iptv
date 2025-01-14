@@ -49,12 +49,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV" tvg-logo="https://i.imgur.com/jxFbz5d.png" group-title="Local",GTV
 http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/Heart_Of_Asia_Logo_2020.svg.png" group-title="Local", Heart Of Asia
-http://data.enics.cloud:9999/stream/iptv/xheartofasia/stream.m3u8?uid=2643766273&u=xigncodee&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
-
-#EXTINF:-1 tvg-id="I.Heart.Movies.ph" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/I_Heart_Movies_2021.png" group-title="Local", I Heart Movies
-http://data.enics.cloud:9999/stream/iptv/xihm/stream.m3u8?uid=39627930&u=xigncodee&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 #EXTINF:-1 tvg-id="untvph" tvg-name="UNTV" tvg-logo="https://i.imgur.com/mKpbuCt.png" group-title="Local",UNTV
