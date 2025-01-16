@@ -723,7 +723,7 @@ https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://d9404832237845108dcd85ecf7887363.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/oneapp-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?aws.sessionId=29d65c01-4c59-4805-98a0-b07f95d2de81
+https://g001-live-us-cmaf-prd-cf.pcdn03.cssott.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-alt-us.png" group-title="Entertainment", NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
