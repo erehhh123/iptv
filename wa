@@ -1,9 +1,6 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/638/638-LOGO-m.png",AXN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
-https://cdn7.serveruss.box.ca/axn/dopamine/manifest.mpd
+
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://www.visionplus.id/images/repository/644/644-LOGO-m.png",Rock Entertainment
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
