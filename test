@@ -281,7 +281,9 @@ http://fl5.moveonjoy.com/TSN_5/index.m3u8
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy)/master_2min.mpd
 
 #EXTINF:-1 tvg-id="NBC.Sports.Bay.Area.(CSNBA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-bay-area-us.png" group-title="Sports",NBC Sports Bay Area
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707880.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=20b593e9bee43324a8b1d830eaa82d78:a87dba51bd2dd7f7879730ac2bd4005b
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(csnbay)/master.mpd
 
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBC Sports Boston
 http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707881.m3u8
