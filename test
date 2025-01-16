@@ -342,11 +342,6 @@ http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDoma
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-210 tvg-logo="https://i.imgur.com/oYg5iPW.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Eurosports
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.113:6910/001/2/ch00000090990000001325/manifest.mpd?virtualDomain=001.live_hls.zte.com
-
 #EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Fight Sports
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
@@ -395,6 +390,18 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Bld//MSTW6JK/0xMndaEbQ", "kid":"m/61BoclYX261jOEc9ptEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="" group-title="Sports",Premier Sports  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="Sports",Premier Sport1 
+https://ie.sonyrepairs.com/premiersp1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="Sports",Premier Sport 2
+https://ie.sonyrepairs.com/premiersp2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest/scale-to-width-down/1000?cb=202208060903100" group-title="Sports",Eurosport 1
+https://ie.sonyrepairs.com/eurosp1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="Sports",Eurosport 2
+https://ie.sonyrepairs.com/eurosp2/index.m3u
 ---------------------------------------------------------------------------Movies-------------------------------------------------------------------------------------------------------------------------------------
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -427,11 +434,10 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
-#EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movies",CELESTIAL MOVIES
+#EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movies",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5c1ba26907291afec11a9a78d513410:361197805d0149c29801946cf2dde67c
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-http://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
+https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
 
 #EXTINF:-1 tvg-id="HBO.HITS.my" group-title="Movies" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch111_170_122",HBO Hits
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -656,6 +662,21 @@ https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",MN+
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="UK Channel",U&Dave
+https://ie.sonyrepairs.com/dave/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/U%26DaveJaVu.svg/revision/latest/scale-to-width-down/1000?cb=20240715091816" group-title="Movies",U&DaveJaVu
+https://ie.sonyrepairs.com/davejavu/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/U%26DRAMA_%282024%29.svg/revision/latest?cb=20240507144437" group-title="Movies",U&Drama
+https://ie.sonyrepairs.com/drama/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/U%26eden_%282024%29.svg/revision/latest?cb=20241016082746" group-title="Movies",U&Eden
+https://ie.sonyrepairs.com/eden/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/U%26GOLD_%282024%29.svg/revision/latest?cb=20241015171331" group-title="Movies",U&Gold
+https://ie.sonyrepairs.com/gold/index.m3u8
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
 https://cdn10jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
@@ -700,7 +721,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
-http://fl2.moveonjoy.com/USA_Network/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
+https://d9404832237845108dcd85ecf7887363.mediatailor.us-west-2.amazonaws.com/v1/dash/7f34bf1814de6fddce84b1e6c296b7a70243b88f/oneapp-atp-dash-linear-4s-generic/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd?aws.sessionId=29d65c01-4c59-4805-98a0-b07f95d2de81
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-alt-us.png" group-title="Entertainment", NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
@@ -757,6 +780,15 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 #EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",TLC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"A++I3xpHZp5UWeEF47U1sQ", "kid":"J2dnpXiq4urLKEJHzNnrEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="552.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_NEW_v1.png" group-logo="" group-title="Entertainment",Discovery 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2510/default_primary.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"w6WOyGfMJYKeH76JOEQlUw", "kid":"P/AvzYDC4yMMUq5w/pA0EA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="553.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Discovery_Asia_v1.png" group-logo="" group-title="Entertainment",Discovery Asia 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 ----------------------------------------------------------------------------Music----------------------------------------------------------------------------------------------------
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
@@ -960,7 +992,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/9982/default_primary.m
 https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
 
 #EXTINF:-1 tvg-id="Boomerang.us" tvg-name="Boomerang" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png" group-title="Kids",Boomerang
-http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
+https://ie.sonyrepairs.com/boomrang/index.m3u8
 
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-name="DISNEY CHANNEL" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" group-title="Kids",Disney Channel
 #KODIPROP:inputstream.adaptive.manifest_type=dash
