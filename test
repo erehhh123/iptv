@@ -19,7 +19,7 @@ https://cinemo-abscbn-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bilyocha2" tvg-name="BILYONARYO CHANNEL (CIG)" tvg-logo="https://static.wikia.nocookie.net/russel/images/a/a8/Bilyonaryo_News_Channel_Logo_2024.png/revision/latest/scale-to-width-down/1000?cb=20240725151343" group-title="Local",Bilyonaryo Channel
 http://143.44.136.113:6910/001/2/ch00000090990000001124/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="https://i.imgur.com/083Ud3K.jpeg" group-title="Local",Jeepney TV
+#EXTINF:-18 tvg-logo="https://i.imgur.com/3yzbJE5.png" group-logo="" group-title="Local",Jeepney TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDomain=001.live_hls.zte.com
@@ -311,58 +311,58 @@ http://fl2.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.On.Demand.us" tvg-name="ESPN U" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" group-title="Sports",ESPN U
 http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 
-#EXTINF:-200 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",beIN Sports
+#EXTINF:-200 tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_Sports_v1.png" group-logo="" group-title="Sports",beIN Sports
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a655189ab5c49eb235308c2b1a9e710:3c4508af348844107f5e026a4fd6b16e
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 
-#EXTINF:-201 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",beIN Sports 2
+#EXTINF:-201 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-2.png" group-logo="" group-title="Sports",beIN Sports 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c175581e237eff9559607eb9b23c10:5102b12aac7756c65dcb46a101d960d3
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_ott.mpd
 
-#EXTINF:-202 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",beIN Sports 3
+#EXTINF:-202 tvg-logo="https://cms.cignal.tv/Upload/Images/BeIn-3.png" group-logo="" group-title="Sports",beIN Sports 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2705/default_ott.mpd
 
-#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Solar Sports
+#EXTINF:-203 tvg-logo="https://i.imgur.com/K3knyIN.png" group-logo="" group-title="Sports",Solar Sports
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001081/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-208 tvg-logo="https://i.imgur.com/E9WTTwg.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",SPOTV
+#EXTINF:-208 tvg-logo="https://i.imgur.com/E9WTTwg.png" group-logo="" group-title="Sports",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001133/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-209 tvg-logo="https://i.imgur.com/ymGJTxi.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",SPOTV2
+#EXTINF:-209 tvg-logo="https://i.imgur.com/ymGJTxi.png" group-logo="" group-title="Sports",SPOTV2
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001200/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Fight Sports
+#EXTINF:-211 tvg-logo="https://i.imgur.com/LUm5esA.png" group-logo="" group-title="Sports",Fight Sports
 https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
 
-#EXTINF:-213 tvg-logo="https://i.imgur.com/QWunFo1.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Sports
+#EXTINF:-213 tvg-logo="https://i.imgur.com/QWunFo1.png" group-logo="" group-title="Sports",Premier Sports
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fc19c98cb9504a0fb78b22fea0a4b814:ea683112a96d4ae6c32d4ea13923e8c7
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_premiersports_hd1.mpd
 
-#EXTINF:-214 tvg-logo="https://i.imgur.com/qVyVAJd.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Sports 2
+#EXTINF:-214 tvg-logo="https://i.imgur.com/qVyVAJd.png" group-logo="" group-title="Sports",Premier Sports 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=59454adb530b4e0784eae62735f9d850:61100d0b8c4dd13e4eb8b4851ba192cc
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_premiertennishd.mpd
 
-#EXTINF:-215 tvg-logo="https://i.imgur.com/Wn8LXoz.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Premier Football
+#EXTINF:-215 tvg-logo="https://i.imgur.com/Wn8LXoz.png" group-logo="" group-title="Sports",Premier Football
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-220 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Sports",Astro Sports UHD
+#EXTINF:-220 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/308_144.png" group-logo="" group-title="Sports",Astro Sports UHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ac8b2f7af05ad829805345a517bc110:ee1ae1cd086fa9bfc0505e6d5e9e27e9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
@@ -436,7 +436,7 @@ https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbohd.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
-#EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Movies",Celestial Movies
+#EXTINF:-163 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Celestial_HD_v1.png" group-logo="" group-title="Movies",Celestial Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NhGXgF0BScKYAZRs8t3mfA", "kid":"xcG6JpByka/sEamnjVE0EA" } ], "type":"temporary" }
 https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_primary.mpd
@@ -620,22 +620,22 @@ https://jungotvstream-chanall.akamaized.net/jungotv/jungopinoytv/stream.m3u8
 #EXTINF:-1 tvg-id="screamflix" tvg-name="SCREAMFLIX" tvg-logo="https://i.imgur.com/VcbTnYj.png" group-title="Movies",Screamflix
 https://jungotvstream-chanall.akamaized.net/jungotv/screamflix/stream.m3u8
 
-#EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Action
+#EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="" group-title="Movies",Rock Action
 https://cdn10jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/playlist.m3u8
 
-#EXTINF:-57 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Rock Entertainment
+#EXTINF:-57 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="" group-title="Movies",Rock Entertainment
 https://cdn10jtedge.indihometv.com/atm/hlsv3/rock_entertainment/playlist.m3u8
 
-#EXTINF:-72 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Astro Showcase
+#EXTINF:-72 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="" group-title="Movies",Astro Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yg0YU4hFuuLLT0oWgDbxdA", "kid":"uAkMg2HMXMXBqsDsJxDeEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_primary.mpd
 
-#EXTINF:-80 tvg-logo="https://i.imgur.com/SMukHlr.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&FLIX
+#EXTINF:-80 tvg-logo="https://i.imgur.com/SMukHlr.png" group-logo="" group-title="Movies",&FLIX
 https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
 
-#EXTINF:-81 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",&PRIVE
+#EXTINF:-81 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="" group-title="Movies",&PRIVE
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -643,26 +643,26 @@ http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
 #EXTINF:-1 tvg-id="hallmarkmoviesphere" tvg-name="MovieSphere" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/208.png" group-title="Movies",MovieSphere
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc137ld1mh)/master_2min.mpd
 
-#EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Sony Pix
+#EXTINF:-77 tvg-logo="https://i.imgur.com/qE1U6QL.png" group-logo="" group-title="Movies",Sony Pix
 https://starshare.live:443/live/04494/04494/98846.m3u8
 
 #EXTINF:-1 tvg-id="Sony.Movies.us" tvg-name="Sony Movie Channel" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/sony-movie-channel-hz-us.png" group-title="Movies",Sony Movie Channel
 http://streamsy.online:2999/venomj/EmoOmOskzq/1217
 
-#EXTINF:-79 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Thrill
+#EXTINF:-79 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="" group-title="Movies",Thrill
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
 
-#EXTINF:-84 tvg-logo="https://i.imgur.com/sPT2SxI.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",Movies Now
+#EXTINF:-84 tvg-logo="https://i.imgur.com/sPT2SxI.png" group-logo="" group-title="Movies",Movies Now
 https://starshare.live:443/live/7382837374/5003958588/152387.m3u8
 
-#EXTINF:-85 tvg-logo="https://i.imgur.com/8RavK5V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",MNX
+#EXTINF:-85 tvg-logo="https://i.imgur.com/8RavK5V.png" group-logo="" group-title="Movies",MNX
 https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
 
-#EXTINF:-86 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Movies",MN+
+#EXTINF:-86 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="" group-title="Movies",MN+
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="UK Channel",U&Dave
@@ -680,12 +680,12 @@ https://ie.sonyrepairs.com/eden/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/U%26GOLD_%282024%29.svg/revision/latest?cb=20241015171331" group-title="Movies",U&Gold
 https://ie.sonyrepairs.com/gold/index.m3u8
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
-#EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",AXN
+#EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="" group-title="Entertainment",AXN
 https://cdn10jtedge.indihometv.com/atm/hlsv3/axn/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LcKnYXveKrABNu5onFbXiQ", "kid":"LRPIFN9KDCzkiLLtoFLXEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",Food Network 
+#EXTINF:-1 tvg-id="708.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/FoodNetwork_2021.png" group-logo="" group-title="Entertainment",Food Network 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2300/default_primary.mpd
 
 #EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/a-and-e-us.png" group-title="Entertainment",A&E
@@ -713,13 +713,13 @@ http://fl2.moveonjoy.com/FX/index.m3u8
 #EXTINF:-1 tvg-id="FXX.USA.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/fxx-us.png" tvg-name="Tv channel name" group-title="Entertainment",FXX
 http://fl2.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-127 tvg-logo="https://i.imgur.com/8VsCN1h.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Entertainment",Global Trekker
+#EXTINF:-127 tvg-logo="https://i.imgur.com/8VsCN1h.png" group-logo="" group-title="Entertainment",Global Trekker
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=92d34a84fae8e54de0a829629941be10:2fb39ab3f55333d5fa3e830ebf99ec16
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5094/default_ott.mpd
 
-#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="https://i.imgur.com/IV8omb6.jpeg" group-title="Entertainment",Ginx TV
+#EXTINF:-230 tvg-logo="https://i.imgur.com/EBRw5Mj.png" group-logo="" group-title="Entertainment",Ginx TV
 https://starshare.live:443/live/7382837374/5003958588/154220.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
@@ -730,7 +730,7 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbc-logo-alt-us.png" group-title="Entertainment", NBC
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 
-#EXTINF:-54 tvg-logo="https://i.imgur.com/tb65CMh.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Entertainment",MTV
+#EXTINF:-54 tvg-logo="https://i.imgur.com/tb65CMh.png" group-logo="" group-title="Entertainment",MTV
 http://87.254.1.41:9981/stream/channelid/536962397?profile=pass
 
 #EXTINF:-1 tvg-id="502" ch-number="502" tvg-name="Love Nature HD" group-title="Entertainment" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/483_144.png",Love Nature
@@ -739,10 +739,10 @@ http://87.254.1.41:9981/stream/channelid/536962397?profile=pass
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5096/default_primary.mpd
 
-#EXTINF:-55 tvg-logo="https://i.imgur.com/UhRluq1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",Universal TV
+#EXTINF:-55 tvg-logo="https://i.imgur.com/UhRluq1.png" group-logo="" group-title="Entertainment",Universal TV
 http://190.102.246.93:9005/play/a01o
 
-#EXTINF:-56 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Entertainment",Studio Universal
+#EXTINF:-56 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="" group-title="Entertainment",Studio Universal
 http://190.102.246.93:9005/play/a01e
 
 #EXTINF:-1 tvg-id="MSG.(Madison.Square.Gardens).us" tvg-name="MSG" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" group-title="Entertainment",MSG
@@ -774,12 +774,12 @@ http://fl2.moveonjoy.com/VICELAND/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zwz/tje4FZiie9aw2Q1lqA", "kid":"NGufQeKTN0jIhh+Cky4BEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",Asian Food Network
+#EXTINF:-1 tvg-id="709.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/afn_v1.png" group-logo="" group-title="Entertainment",Asian Food Network
 https://linearjitp-playback.astro.com.my/dash-wv/linear/500/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"f15saWmN3vy3RVNDGyscmA", "kid":"lC7BViA7Ksod3zSY9mPBEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",TLC
+#EXTINF:-1 tvg-id="707.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TLC_v1.png" group-logo="" group-title="Entertainment",TLC
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2709/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -797,7 +797,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/501/default_primary.mpd
 #EXTINF:-1 tvg-id="myxph" tvg-name="MYX PHILIPPINES" tvg-logo="https://i.imgur.com/eXbFzMA.png" group-title="Music",MYX
 http://143.44.136.111:6910/001/2/ch00000090990000001252/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-172 tvg-logo="https://i.imgur.com/j8x0nhs.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Music",MTV Live
+#EXTINF:-172 tvg-logo="https://i.imgur.com/j8x0nhs.png" group-logo="" group-title="Music",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"IvlkptaSfM26SC53XN/xkA", "kid":"OsJUKk9750ZjPbB2R0UXEA" } ], "type":"temporary" }
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1063,20 +1063,20 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2306/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d9mO1x23Ukwnh1oJqXX55g", "kid":"fvfpE86FoRMbJwNgaRaaEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Entertainment",iQIYI 
+#EXTINF:-1 tvg-id="300.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/IQIYI_2022.png" group-logo="" group-title="Entertainment",iQIYI 
 https://linearjitp-playback.astro.com.my/dash-wv/dashiso/1006/default_primary.mpd 
 #####https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_primary.mpd
 
 #EXTINF:-1 tvg-id="wavve|K06" tvg-name="KBS DRAMA" tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/KBS_DRAMA.svg.png" group-title="Korean",KBS Drama
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=K06&q=SD&apikey=5MY50EII66
 
-#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",K-Plus
+#EXTINF:-159 tvg-logo="https://i.imgur.com/Nd9gqA2.png" group-logo="" group-title="Entertainment",K-Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
 http://linearjitp02-playback.astro.com.my/dash-wv/linear/9983/default.mpd
 
-#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",One
+#EXTINF:-162 tvg-logo="https://i.imgur.com/Xv8cQh0.png" group-logo="" group-title="Entertainment",One
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8fe398c79065173fa9788f226056510:45e77e6a8ba767b63cacfdb01ef2ac29
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1106,7 +1106,7 @@ http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C00579&
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
-#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="https://i.imgur.com/rsPE0Fp.png" group-title="Entertainment",TVN Movies
+#EXTINF:-150 tvg-logo="https://i.imgur.com/oLzTyUX.png" group-logo="" group-title="Entertainment",TVN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e269c8aa32ad77eb83068312343d610:d12ccebafbba2a535d88a3087f884252
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -1181,101 +1181,101 @@ http://mnet.x10.mx/koreaiptv/hyperatest.php?ch=ocn
 #EXTINF:-1 tvg-id="wavve|M14" tvg-name="MBC ON" tvg-logo="https://tv.kt.com/relatedmaterial/ch_logo/live/fa544a7f90218092044.png" group-title="Korean",MBC ON
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=wavve&i=M14&q=SD&apikey=5MY50EII66
 ----------------------------------------------------------------------------------------------Sky Channels------------------------------------------------------------------------------------------------
-#EXTINF:0 CUID="3632" tvg-chno="null" tvg-name="Sky arts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-arts-uk.png" group-title="Sky Channels",Sky Arts
+#EXTINF:0 CUID="3632" tvg-chno="null" tvg-name="Sky arts" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-arts-uk.png" group-title="Entertainment",Sky Arts
 https://ie.sonyrepairs.com/skarts/index.m3u8
 
-#EXTINF:0 CUID="3633" tvg-chno="null" tvg-name="Sky atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="Sky Channels",Sky Atlantic
+#EXTINF:0 CUID="3633" tvg-chno="null" tvg-name="Sky atlantic" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-atlantic-uk.png" group-title="Entertainment",Sky Atlantic
 https://ie.sonyrepairs.com/satlantic/index.m3u8
 
-#EXTINF:0 CUID="3634" tvg-chno="null" tvg-name="Sky action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-action-hz-uk.png" group-title="Sky Channels",Sky Cinema Action
+#EXTINF:0 CUID="3634" tvg-chno="null" tvg-name="Sky action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-action-hz-uk.png" group-title="Movies",Sky Cinema Action
 https://ie.sonyrepairs.com/skcineaction/index.m3u8
 
-#EXTINF:0 CUID="3635" tvg-chno="null" tvg-name="Sky animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png" group-title="Sky Channels",Sky Cinema Animation
+#EXTINF:0 CUID="3635" tvg-chno="null" tvg-name="Sky animation" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-animation-hz-uk.png" group-title="Movies",Sky Cinema Animation
 https://ie.sonyrepairs.com/skcineanimation/index.m3u8
 
-#EXTINF:0 CUID="3636" tvg-chno="null" tvg-name="Sky comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png" group-title="Sky Channels",Sky Cinema Comedy
+#EXTINF:0 CUID="3636" tvg-chno="null" tvg-name="Sky comedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-comedy-hz-uk.png" group-title="Movies",Sky Cinema Comedy
 https://ie.sonyrepairs.com/skcinecomedy/index.m3u8
 
-#EXTINF:0 CUID="3637" tvg-chno="null" tvg-name="Sky family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-family-hz-uk.png" group-title="Sky Channels",Sky Cinema Family
+#EXTINF:0 CUID="3637" tvg-chno="null" tvg-name="Sky family" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-family-hz-uk.png" group-title="Movies",Sky Cinema Family
 https://ie.sonyrepairs.com/skcinefamily/index.m3u8
 
-#EXTINF:0 CUID="3645" tvg-chno="null" tvg-name="Sky greats" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png" group-title="Sky Channels",Sky Cinema Greats
+#EXTINF:0 CUID="3645" tvg-chno="null" tvg-name="Sky greats" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-greats-hz-uk.png" group-title="Movies",Sky Cinema Greats
 https://ie.sonyrepairs.com/skcinegretas/index.m3u8
 
-#EXTINF:0 CUID="3638" tvg-chno="null" tvg-name="Sky hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png" group-title="Sky Channels",Sky Cinema Hits
+#EXTINF:0 CUID="3638" tvg-chno="null" tvg-name="Sky hits" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-hits-hz-uk.png" group-title="Movies",Sky Cinema Hits
 https://ie.sonyrepairs.com/skcinehits/index.m3u8
 
-#EXTINF:0 CUID="3639" tvg-chno="null" tvg-name="Sky premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png" group-title="Sky Channels",Sky Cinema Premiere
+#EXTINF:0 CUID="3639" tvg-chno="null" tvg-name="Sky premiere" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-premiere-hz-uk.png" group-title="Movies",Sky Cinema Premiere
 https://ie.sonyrepairs.com/skcinepremiere/index.m3u8
 
-#EXTINF:0 CUID="3640" tvg-chno="null" tvg-name="Sky select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-hz-uk.png" group-title="Sky Channels",Sky Cinema Select
+#EXTINF:0 CUID="3640" tvg-chno="null" tvg-name="Sky select" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-select-hz-uk.png" group-title="Movies",Sky Cinema Select
 https://ie.sonyrepairs.com/skcineselect/index.m3u8
 
-#EXTINF:0 CUID="3641" tvg-chno="null" tvg-name="Sky thriller" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png" group-title="Sky Channels",Sky Cinema Thriller
+#EXTINF:0 CUID="3641" tvg-chno="null" tvg-name="Sky thriller" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-cinema-thriller-hz-uk.png" group-title="Movies",Sky Cinema Thriller
 https://ie.sonyrepairs.com/skcinethriller/index.m3u8
 
-#EXTINF:0 CUID="3642" tvg-chno="null" tvg-name="SkyComedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-comedy-uk.png" group-title="Sky Channels",Sky Comedy
+#EXTINF:0 CUID="3642" tvg-chno="null" tvg-name="SkyComedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-comedy-uk.png" group-title="Entertainment",Sky Comedy
 https://ie.sonyrepairs.com/skcomedy/index.m3u8
 
-#EXTINF:0 CUID="3643" tvg-chno="null" tvg-name="Sky crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-crime-uk.png" group-title="Sky Channels",Sky Crime
+#EXTINF:0 CUID="3643" tvg-chno="null" tvg-name="Sky crime" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-crime-uk.png" group-title="Entertainment",Sky Crime
 https://ie.sonyrepairs.com/skcrime/index.m3u8
 
-#EXTINF:0 CUID="3644" tvg-chno="null" tvg-name="Sky doc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="Sky Channels",Sky Documentaries
+#EXTINF:0 CUID="3644" tvg-chno="null" tvg-name="Sky doc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-documentaries-uk.png" group-title="Entertainment",Sky Documentaries
 https://ie.sonyrepairs.com/skdocumentaries/index.m3u8
 
-#EXTINF:0 CUID="3646" tvg-chno="null" tvg-name="Sky history" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-uk.png" group-title="Sky Channels",Sky History
+#EXTINF:0 CUID="3646" tvg-chno="null" tvg-name="Sky history" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-uk.png" group-title="Entertainment",Sky History
 https://ie.sonyrepairs.com/skhistory/index.m3u8
 
-#EXTINF:0 CUID="3647" tvg-chno="null" tvg-name="Sky history2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-2-uk.png" group-title="Sky Channels",Sky History 2
+#EXTINF:0 CUID="3647" tvg-chno="null" tvg-name="Sky history2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-history-2-uk.png" group-title="Entertainment",Sky History 2
 https://ie.sonyrepairs.com/skhistory2/index.m3u8
 
-#EXTINF:0 CUID="3648" tvg-chno="null" tvg-name="Sky max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-max-uk.png" group-title="Sky Channels",Sky Max
+#EXTINF:0 CUID="3648" tvg-chno="null" tvg-name="Sky max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-max-uk.png" group-title="Entertainment",Sky Max
 https://ie.sonyrepairs.com/skmax/index.m3u8
 
-#EXTINF:0 CUID="3649" tvg-chno="null" tvg-name="Sky nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-uk.png" group-title="Sky Channels",Sky Nature
+#EXTINF:0 CUID="3649" tvg-chno="null" tvg-name="Sky nature" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-nature-uk.png" group-title="Entertainment",Sky Nature
 https://ie.sonyrepairs.com/sknature/index.m3u8
 
-#EXTINF:0 CUID="3650" tvg-chno="null" tvg-name="Sky news" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png" group-title="Sky Channels",Sky News
+#EXTINF:0 CUID="3650" tvg-chno="null" tvg-name="Sky news" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-news-uk.png" group-title="Entertainment",Sky News
 https://ie.sonyrepairs.com/skynews/index.m3u8
 
-#EXTINF:0 CUID="3651" tvg-chno="null" tvg-name="Sky replay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Sky Channels",Sky Replay
+#EXTINF:0 CUID="3651" tvg-chno="null" tvg-name="Sky replay" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-replay-uk.png" group-title="Entertainment",Sky Replay
 https://ie.sonyrepairs.com/skreplay/index.m3u8
 
-#EXTINF:0 CUID="3652" tvg-chno="null" tvg-name="Sky showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-showcase-uk.png" group-title="Sky Channels",Sky Showcase
+#EXTINF:0 CUID="3652" tvg-chno="null" tvg-name="Sky showcase" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-showcase-uk.png" group-title="Entertainment",Sky Showcase
 https://ie.sonyrepairs.com/skshowcase/index.m3u8
 
-#EXTINF:0 CUID="3662" tvg-chno="null" tvg-name="Sky withness" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="Sky Channels",Sky Witness
+#EXTINF:0 CUID="3662" tvg-chno="null" tvg-name="Sky withness" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-witness-uk.png" group-title="Sports",Sky Witness
 https://ie.sonyrepairs.com/withness/index.m3u8
 
-#EXTINF:0 CUID="3655" tvg-chno="null" tvg-name="Sky arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="Sky Channels",Sky Sports Arena
+#EXTINF:0 CUID="3655" tvg-chno="null" tvg-name="Sky arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-arena-uk.png" group-title="Sports",Sky Sports Arena
 https://ie.sonyrepairs.com/sksparena/index.m3u8
 
-#EXTINF:0 CUID="3656" tvg-chno="null" tvg-name="Sky cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Sky Channels",Sky Sports Cricket
+#EXTINF:0 CUID="3656" tvg-chno="null" tvg-name="Sky cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-cricket-uk.png" group-title="Sports",Sky Sports Cricket
 https://ie.sonyrepairs.com/skspcricket/index.m3u8
 
-#EXTINF:0 CUID="3657" tvg-chno="null" tvg-name="Sky f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sky Channels",Sky Sports F1
+#EXTINF:0 CUID="3657" tvg-chno="null" tvg-name="Sky f1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="Sports",Sky Sports F1
 https://ie.sonyrepairs.com/skspf1/index.m3u8
 
-#EXTINF:0 CUID="3658" tvg-chno="null" tvg-name="Sky football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Sky Channels",Sky Sports Football
+#EXTINF:0 CUID="3658" tvg-chno="null" tvg-name="Sky football" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="Sports",Sky Sports Football
 https://ie.sonyrepairs.com/skspfootball/index.m3u8
 
-#EXTINF:0 CUID="3659" tvg-chno="null" tvg-name="Sky golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sky Channels",Sky Sports Golf
+#EXTINF:0 CUID="3659" tvg-chno="null" tvg-name="Sky golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="Sports",Sky Sports Golf
 https://ie.sonyrepairs.com/skspgolf/index.m3u8
 
-#EXTINF:0 CUID="3661" tvg-chno="null" tvg-name="Sky nfl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sky Channels",Sky Sports NFL
+#EXTINF:0 CUID="3661" tvg-chno="null" tvg-name="Sky nfl" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-nfl-uk.png" group-title="Sports",Sky Sports NFL
 https://ie.sonyrepairs.com/skspnfl/index.m3u8
 
-#EXTINF:0 CUID="3663" tvg-chno="null" tvg-name="Sky pre league" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sky Channels",Sky Sports Premier League
+#EXTINF:0 CUID="3663" tvg-chno="null" tvg-name="Sky pre league" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png" group-title="Sports",Sky Sports Premier League
 https://ie.sonyrepairs.com/sksppremierleague/index.m3u8
 
-#EXTINF:0 CUID="3664" tvg-chno="null" tvg-name="Sky main event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Sky Channels",Sky Sports Main Event
+#EXTINF:0 CUID="3664" tvg-chno="null" tvg-name="Sky main event" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png" group-title="Sports",Sky Sports Main Event
 https://ie.sonyrepairs.com/skspmainevent/index.m3u8
 
-#EXTINF:0 CUID="3660" tvg-chno="null" tvg-name="Sky mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="Sky Channels",Sky Sports Mix
+#EXTINF:0 CUID="3660" tvg-chno="null" tvg-name="Sky mix" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-mix-hz-uk.png" group-title="Sports",Sky Sports Mix
 https://ie.sonyrepairs.com/spspmix/index.m3u8
 
-#EXTINF:0 CUID="3653" tvg-chno="null" tvg-name="Sky sport news" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="Sky Channels",Sky Sport News
+#EXTINF:0 CUID="3653" tvg-chno="null" tvg-name="Sky sport news" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-news-hz-uk.png" group-title="Sports",Sky Sport News
 https://ie.sonyrepairs.com/skspnews/index.m3u8
 
-#EXTINF:0 CUID="3654" tvg-chno="null" tvg-name="Sky tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="Sky Channels",Sky Sports Tennis
+#EXTINF:0 CUID="3654" tvg-chno="null" tvg-name="Sky tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/sky-sports-tennis-hz-uk.png" group-title="Sports",Sky Sports Tennis
 https://ie.sonyrepairs.com/sktennis/index.m3u8
