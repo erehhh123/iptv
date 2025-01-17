@@ -19,3 +19,6 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 
 #EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Entertainment",TVN Movies Pinoy
 https://kaotv.ganbaruby23.xyz/tvnmoviespinoy.php
+
+#EXTINF:-1 tvg-id="tvN.Movies.HD.my" tvg-logo="https://static.wikia.nocookie.net/russel/images/e/e3/TvN_Movies_Pinoy_Logo_2023.png" group-title="Entertainment",TVN Movies Pinoy 2
+https://raw.githubusercontent.com/blinku223/iptv/refs/heads/main/meow
