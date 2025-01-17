@@ -665,7 +665,7 @@ https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
 #EXTINF:-86 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="" group-title="Movies",MN+
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="UK Channel",U&Dave
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="Movies",U&Dave
 https://ie.sonyrepairs.com/dave/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/U%26DaveJaVu.svg/revision/latest/scale-to-width-down/1000?cb=20240715091816" group-title="Movies",U&DaveJaVu
@@ -1051,7 +1051,7 @@ https://a196aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/o7a
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"irCTravcNDuHNLfs8K6hGg", "kid":"48t0mXEHhusQX6t7UkWZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="MoonbugKids" group-title="UNIFI TV" group-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/moonbug-kids-my.png" group-title="Kids",Moonbug Kids
+#EXTINF:-1 tvg-id="MoonbugKids" group-logo="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/malaysia/moonbug-kids-my.png" group-title="Kids",Moonbug Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 https://linearjitp02-playback.astro.com.my:443/dash-wv/linear/5067/default_primary.mpd
 -------------------------------------------------------------------------------Korean-----------------------------------------------------------------------------------------------------
