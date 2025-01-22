@@ -286,13 +286,19 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(vc122ycnuy
 https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(csnbay)/master.mpd
 
 #EXTINF:-1 tvg-id="NBC.Sports.Boston.(NBCSB).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-boston-us.png" group-title="Sports",NBC Sports Boston
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707881.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=0f73521c174532e59711ccb4462ac770:f06c7f95319c0386b4fc5fa3d58ab504
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(csnnew)/master.mpd
 
 #EXTINF:-1 tvg-id="NBC.Sports.California.HDTV.(NBCSCA).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-california-us.png" group-title="Sports",NBC Sports California
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707882.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bccd9296f8b1329895b22ca15e26f748:127a8c6653a0631fea0e61160cd76938
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(csncal)/master.mpd
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/nbcsn-philadelphia-us.png" group-title="Sports",NBC Sports Philadelphia
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707888.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e07a6dfad8333a388f2a931a743621b9:638ff7ec62eeee611927f1d6d5baa146
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(csnphilly)/master.mpd
 
 #EXTINF:-1 tvg-id ="WWE.Network.HD.my" group-title="Sports" tvg-logo="https://i.imgur.com/gv0kIw9.png",WWE Network
 #KODIPROP:inputstream.adaptive.license_type=Clearkey
@@ -492,7 +498,9 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5053/manifest.mpd
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
 #EXTINF:-1 tvg-id="Syfy.HDTV.(SYFYHD).us" tvg-logo="https://i.imgur.com/U7o3O7W.png" tvg-name="Tv channel name" group-title="Movies",SYFY
-http://fl2.moveonjoy.com/SYFY/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40914086653a342f803a330aa85f6350:20ab2f2451ecf474203fb8f7acb85436
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(syfy-east)/master.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/crave-1-ca.png" group-title="Movies", Crave 1
 http://fl3.moveonjoy.com/CRAVE_1/index.m3u8
