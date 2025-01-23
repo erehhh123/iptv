@@ -184,43 +184,94 @@ http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8
 http://fl1.moveonjoy.com/UFC/index.m3u8
 
 #EXTINF:-1 tvg-id="Bally.Sports.Florida.1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/FanDuel_Sports_Network_Florida_logo.svg/1920px-FanDuel_Sports_Network_Florida_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Florida
-http://fl6.moveonjoy.com/BALLY_SPORTS_FLORIDA/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium892/index.m3u8
 
 #EXTINF:-1 tvg-id="Fanduel Sports Network Southeast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FanDuel_Sports_Network_Southeast_logo.svg/220px-FanDuel_Sports_Network_Southeast_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Southeast
-http://cord-cutter.net:8080/25464931/30585186/81111
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium904/index.m3u8
 
 #EXTINF:-1 tvg-id="Bally.Sports.Detroit.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/FanDuel_Sports_Network_Detroit_logo.svg/1920px-FanDuel_Sports_Network_Detroit_logo.svg.png" tvg-name="Tv channel name" group-title="Sports",Fanduel Sports Network Detroit
-http://fl6.moveonjoy.com/BALLY_SPORTS_DETROIT/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium891/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/FanDuel_Sports_Network_Great_Lakes_logo.svg/220px-FanDuel_Sports_Network_Great_Lakes_logo.svg.png" group-title="Sports",Fanduel Sports Network Great Lakes
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707819.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium893/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/FanDuel_Sports_Network_Midwest_logo.svg/220px-FanDuel_Sports_Network_Midwest_logo.svg.png" group-title="Sports",Fanduel Sports Network Midwest
-http://fl6.moveonjoy.com/BALLY_SPORTS_MIDWEST/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium896/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/FanDuel_Sports_Network_North_logo.svg/1920px-FanDuel_Sports_Network_North_logo.svg.png" group-title="Sports",Fanduel Sports Network North
-http://fl6.moveonjoy.com/BALLY_SPORTS_ARIZONA/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium898/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/FanDuel_Sports_Network_Ohio_logo.svg/220px-FanDuel_Sports_Network_Ohio_logo.svg.png" group-title="Sports",Fanduel Sports Network Ohio
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707830.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium899/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/FanDuel_Sports_Network_Sun_logo.svg/220px-FanDuel_Sports_Network_Sun_logo.svg.png" group-title="Sports",Fanduel Sports Network Sun
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707839.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium905/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/FanDuel_Sports_Network_SoCal_logo.svg/220px-FanDuel_Sports_Network_SoCal_logo.svg.png" group-title="Sports",Fanduel Sports Network SoCal
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707834.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium902/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/FanDuel_Sports_Network_South_logo.svg/220px-FanDuel_Sports_Network_South_logo.svg.png" group-title="Sports",Fanduel Sports Network South
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707836.m3u8
-
-#EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/FanDuel_Sports_Network_Southwest_logo.svg/220px-FanDuel_Sports_Network_Southwest_logo.svg.png" group-title="Sports",Fanduel Sports Network Southwest
-http://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium903/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/FanDuel_Sports_Network_West_logo.svg/220px-FanDuel_Sports_Network_West_logo.svg.png" group-title="Sports",Fanduel Sports Network West
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707842.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium906/index.m3u8
 
 #EXTINF:-1 tvg-id="24.7.DUMMY.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/FanDuel_Sports_Network_Wisconsin_logo.svg/220px-FanDuel_Sports_Network_Wisconsin_logo.svg.png" group-title="Sports",Fanduel Sports Network Wisconsin
-http://monstertv.site:8080/live/djdlangston3%40comcast.net/CqBbXL25Vhjb/707844.m3u8
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium907/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuel.Sports.Indiana.us" tvg-logo="https://i.imgur.com/HUgEVWQ.png" tvg-name="FanDuel SN Indiana",FanDuel Sports Network Indiana
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium894/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuel.Sports.Midwest.-.Kansas.City.us" tvg-logo="https://i.imgur.com/Oo4Fayt.png" tvg-name="FanDuel SN Kansas City",FanDuel Sports Network Kansas City
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium895/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-id="FanDuel.Sports.Network.Oklahoma.us" tvg-logo="https://i.imgur.com/mx7lyh5.png" tvg-name="FanDuel SN Oklahoma",FanDuel Sports Network Oklahoma
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium900/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="TNTSports1.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",TNT Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -249,6 +300,9 @@ https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-name="HBO Boxing" tvg-id="400000083" tvg-logo="https://canvas-lb.tubitv.com/opts/R19y28b4wR0sOw==/85396ad7-4f62-4df1-a6a6-433b0e027106/CHgQeDoFMS4xLjZAAQ==" group-title="Sports",HBO Boxing
+https://live-manifest.production-public.tubi.io/live/8bf58bf5-36ea-4ac8-ba4e-194ebc9af7e7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Spectrum.Sportsnet.Lakers.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/spectrum-sportsnet-us.png" group-title="Sports",Spectrum SportsNet 
 http://pwr55.xyz:80/zijadingashchi/475346643CAF/200930
