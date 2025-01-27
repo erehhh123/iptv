@@ -448,7 +448,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0OeU48/1ZO0scgoJjrF3xw", "kid":"TbI6Qbq/6a/CIqWMWYKDEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/logo_1701_v3.png" group-logo="" group-title="Sports",EuroSports 
+#EXTINF:-1 tvg-id="820.astro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/eurosport-in.png" group-logo="" group-title="Sports",Eurosports 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -456,16 +456,16 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2100/default_primary.mpd
 #EXTINF:-1 tvg-id="823.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/PremierSports.png" group-logo="" group-title="Sports",Premier Sports  
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/Premier_Sports_1_II.svg/revision/latest?cb=20230516195441" group-title="Sports",Premier Sport1 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-1-uk.png" group-title="Sports",Premier Sport 1 
 https://ie.sonyrepairs.com/premiersp1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/Premier_Sports_2_II.svg/revision/latest?cb=20230516195653" group-title="Sports",Premier Sport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/premier-sports-2-uk.png" group-title="Sports",Premier Sport 2
 https://ie.sonyrepairs.com/premiersp2/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e7/Eurosport_1_2022.svg/revision/latest/scale-to-width-down/1000?cb=202208060903100" group-title="Sports",Eurosport 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/eurosport-1-rs.png" group-title="Sports",Eurosport 1
 https://ie.sonyrepairs.com/eurosp1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Eurosport_2_2022.svg/revision/latest?cb=20220417183127" group-title="Sports",Eurosport 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/serbia/eurosport-2-rs.png" group-title="Sports",Eurosport 2
 https://ie.sonyrepairs.com/eurosp2/index.m3u
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -735,19 +735,19 @@ https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
 #EXTINF:-86 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="" group-title="Movies",MN+
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d1/U%26Dave_%282024%29.svg/revision/latest?cb=20240715092635" group-title="Movies",U&Dave
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-dave-uk.png" group-title="Movies",U&Dave
 https://ie.sonyrepairs.com/dave/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e6/U%26DaveJaVu.svg/revision/latest/scale-to-width-down/1000?cb=20240715091816" group-title="Movies",U&DaveJaVu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-dave-javu-uk.png" group-title="Movies",U&DaveJaVu
 https://ie.sonyrepairs.com/davejavu/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/U%26DRAMA_%282024%29.svg/revision/latest?cb=20240507144437" group-title="Movies",U&Drama
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-drama-uk.png" group-title="Movies",U&Drama
 https://ie.sonyrepairs.com/drama/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/U%26eden_%282024%29.svg/revision/latest?cb=20241016082746" group-title="Movies",U&Eden
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-eden-uk.png" group-title="Movies",U&Eden
 https://ie.sonyrepairs.com/eden/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/U%26GOLD_%282024%29.svg/revision/latest?cb=20241015171331" group-title="Movies",U&Gold
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/u-and-gold-uk.png" group-title="Movies",U&Gold
 https://ie.sonyrepairs.com/gold/index.m3u8
 -----------------------------------------------------------------------Entertainment-------------------------------------------------------------------------------------------------
 #EXTINF:-48 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="" group-title="Entertainment",AXN
