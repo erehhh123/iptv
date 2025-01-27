@@ -29,6 +29,12 @@ http://143.44.136.113:6910/001/2/ch00000090990000001250/manifest.mpd?virtualDoma
 #EXTINF:-1 tvg-id="kapcha1" tvg-name="Kapamilya Channel" tvg-logo="https://i.imgur.com/69D9xwa.png" group-title="Local",Kapamilya Channel
 http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
+#EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/Heart_Of_Asia_Logo_2020.svg.png" group-logo="" group-title="Local",Heart of Asia
+http://data.enics.cloud:9999/stream/iptv/kupalnahoa/master.m3u8?u=juansupot&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
+#EXTINF:-18 tvg-logo="https://raw.githubusercontent.com/erehhh123/iptv/refs/heads/main/I_Heart_Movies_2021.png" group-logo="" group-title="Local",I Heart Movies
+http://data.enics.cloud:9999/stream/iptv/restreamnaihm/master.m3u8?u=juansupot&p=79e5ce570386717d2847ca08ace1c50a64c5866034765929c4a0cafa35e2e478
+
 #EXTINF:-1 tvg-id="Kapamilya.Channel.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Kapamilya_Channel_Logo_2020.svg/2560px-Kapamilya_Channel_Logo_2020.svg.png" group-title="Local", Kapamilya Channel (TFC FEED)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bd17afb5dc9648a39be79ee3634dd4b8:3ecf305d54a7729299b93a3d69c02ea5
