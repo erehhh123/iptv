@@ -12,7 +12,4 @@ https://cdn7.serveruss.box.ca/rockent/dopamine/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
 https://cdn7.serveruss.box.ca/rockaction/dopamine/manifest.mpd
 
-#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-name="Tv channel name" group-title="Entertainment",USA Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=78ab64fa90f137a697743b5dc27b2f96:de4d31c7fc6005ede28abab2a0720a9f
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
