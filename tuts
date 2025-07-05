@@ -1,0 +1,177 @@
+🌏 What You'll Get:
+✅ A CORS proxy in the format:
+
+ruby
+Copy
+Edit
+http://your-vps-ip/https://target.com
+✅ Hosted on DigitalOcean Singapore region
+
+✅ Uses Node.js + Express + Axios
+
+✅ Adds CORS headers to bypass browser restrictions
+
+🧰 Step 1: Create Singapore VPS on DigitalOcean
+Go to: https://cloud.digitalocean.com
+
+Click Create → Droplets
+
+Choose:
+
+Ubuntu 22.04 x64
+
+Singapore region
+
+Basic shared CPU (cheapest is fine)
+
+Add your SSH key or password
+
+Launch the droplet
+
+💻 Step 2: SSH Into Your VPS
+Use terminal or CMD:
+
+bash
+Copy
+Edit
+ssh root@your-vps-ip
+
+🛠️ Step 3: Install Node.js and Git
+bash
+Copy
+Edit
+apt update && apt upgrade -y
+apt install -y nodejs npm git
+Check version:
+
+bash
+Copy
+Edit
+node -v
+npm -v
+
+📦 Step 4: Create the CORS Proxy App
+bash
+Copy
+Edit
+git clone https://github.com/francescandado/sg-cors-proxy.git
+cd sg-cors-proxy
+npm install
+(Or you can manually create the file from the code below if you prefer.)
+
+🔧 server.js
+js
+Copy
+Edit
+// server.js
+import express from 'express';
+import axios from 'axios';
+import morgan from 'morgan';
+
+const app = express();
+const PORT = process.env.PORT || 3000;
+
+app.use(morgan('dev'));
+
+app.get('/*', async (req, res) => {
+  const targetUrl = req.originalUrl.substring(1); // Remove the first slash
+
+  if (!/^https?:\\/\\//i.test(targetUrl)) {
+    return res.status(400).send('Invalid target URL');
+  }
+
+  try {
+    const response = await axios.get(targetUrl, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+        'Referer': targetUrl,
+        'Origin': targetUrl
+      },
+      responseType: 'arraybuffer', // to handle binary (images, etc.)
+      timeout: 10000
+    });
+
+    for (const [key, value] of Object.entries(response.headers)) {
+      res.setHeader(key, value);
+    }
+
+    res.setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Headers', '*');
+    res.status(response.status).send(response.data);
+
+  } catch (err) {
+    console.error(err);
+    res.status(500).send('Proxy error: ' + err.message);
+  }
+});
+
+app.listen(PORT, () => {
+  console.log(`✅ CORS proxy is running at http://localhost:${PORT}`);
+});
+
+📄 package.json
+json
+Copy
+Edit
+{
+  "name": "sg-cors-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0"
+  }
+}
+
+▶️ Step 5: Start the Proxy
+bash
+Copy
+Edit
+npm install
+node server.js
+Now open in browser:
+http://your-vps-ip/https://example.com
+
+🔁 (Optional) Step 6: Run it Forever with PM2
+bash
+Copy
+Edit
+npm install -g pm2
+pm2 start server.js
+pm2 startup
+pm2 save
+
+🧪 Example Test
+Try this in your frontend:
+
+js
+Copy
+Edit
+fetch("http://your-vps-ip/https://ucdn.starhubgo.com/bpk-tv/AnimaxHD/output/manifest.mpd")
+  .then(res => res.text())
+  .then(console.log);
+
+✅ You Now Have:
+A CORS proxy with Singapore IP
+
+Works like https://cors.jugorder.de/
+
+Self-hosted and customizable
+
+Would you like me to bundle the full code into a downloadable .zip, or push to a GitHub repo under your name for easy deploy?
+
+You said:
+i have singapore vps but it's on dual core can it run the cors?
+
+
+ChatGPT said:
+Yes — your Singapore VPS with dual-core CPU is more than enough to run a CORS proxy! ✅
+
+💡 Here's Why:
+Component	Requirement	Your VPS (Dual Core)
+CPU	Minimal — just handles HTTP I/O	✔ Dual core is more than enough
+Memory (RAM)	256MB–512MB is usually sufficient	✔ Likely 1GB+ — plenty
+Bandwidth	Depends on how much data you're proxying	✔ VPS usually includes TBs/month
+Node.js	Very lightweight runtime	✔ Supported
